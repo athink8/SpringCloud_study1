@@ -116,7 +116,7 @@ SpringCloud架构：
 >
 > netflix-hystrix	2.2.2.RELEASE
 >
-> ?	
+> netflix-zuul		2.2.2.RELEASE		
 
 #### 1. Eureka 服务注册与发现
 
