@@ -256,13 +256,12 @@ Eureka 采用了 C-S 的设计架构。Eureka Server 作为服务注册功能的服务器，它是服务注
   //其实这里测试不用写也通过  真奇怪
   @EnableEurekaClient
   ```
-```
-  
-  
 
-##### 1.4服务发现
 
-对于注册进eureka里面的微服务，可以通过服务发现来获得该服务的信息
+
+  ##### 1.4服务发现
+
+?	对于注册进eureka里面的微服务，可以通过服务发现来获得该服务的信息
 
 - controller：
 
@@ -279,7 +278,7 @@ Eureka 采用了 C-S 的设计架构。Eureka Server 作为服务注册功能的服务器，它是服务注
           }
           return this.eurekaDiscoveryClient;
       }
-```
+  ```
 
 - 启动类
 
