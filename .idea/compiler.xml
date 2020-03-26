@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo1_api" />
+        <module name="demo1_config" />
+        <module name="demo1_consumer_80" />
+        <module name="demo1_consumer_feign" />
+        <module name="demo1_consumer_hystrix_dashboard" />
+        <module name="demo1_eurekaserver_7001" />
+        <module name="demo1_eurekaserver_7002" />
+        <module name="demo1_eurekaserver_7003" />
+        <module name="demo1_provider_8081" />
+        <module name="demo1_provider_8082" />
+        <module name="demo1_provider_8083" />
+        <module name="demo1_zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="demo1" target="1.8" />
+      <module name="demo1_api" target="1.8" />
+      <module name="demo1_config" target="1.8" />
+      <module name="demo1_consumer_80" target="1.8" />
+      <module name="demo1_consumer_feign" target="1.8" />
+      <module name="demo1_consumer_hystrix_dashboard" target="1.8" />
+      <module name="demo1_eureka_7001" target="1.8" />
+      <module name="demo1_eurekaserver7001" target="1.8" />
+      <module name="demo1_eurekaserver_7001" target="1.8" />
+      <module name="demo1_eurekaserver_7002" target="1.8" />
+      <module name="demo1_eurekaserver_7003" target="1.8" />
+      <module name="demo1_provider_8081" target="1.8" />
+      <module name="demo1_provider_8082" target="1.8" />
+      <module name="demo1_provider_8083" target="1.8" />
+      <module name="demo1_sleuth" target="1.8" />
+      <module name="demo1_zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="demo1" options="" />
+      <module name="demo1_api" options="" />
+      <module name="demo1_config" options="" />
+      <module name="demo1_consumer_80" options="" />
+      <module name="demo1_consumer_feign" options="" />
+      <module name="demo1_consumer_hystrix_dashboard" options="" />
+      <module name="demo1_eureka_7001" options="-parameters" />
+      <module name="demo1_eurekaserver_7001" options="" />
+      <module name="demo1_eurekaserver_7002" options="" />
+      <module name="demo1_eurekaserver_7003" options="" />
+      <module name="demo1_provider_8081" options="" />
+      <module name="demo1_provider_8082" options="" />
+      <module name="demo1_provider_8083" options="" />
+      <module name="demo1_sleuth" options="" />
+      <module name="demo1_zuul" options="" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,49 @@
+server:
+  port: 8081
+spring:
+  profiles: dev
+  application:
+    name: demo1provider1
+  #数据源基本配置
+  datasource:
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql:///athink_all?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+    type: com.alibaba.druid.pool.DruidDataSource
+    #数据源其他配置
+    initialSize: 5
+    minIdle: 5
+    maxActive: 20
+    maxWait: 60000
+    timeBetweenEvictionRunsMillis: 60000
+    minEvictableIdleTimeMillis: 300000
+    validationQuery: SELECT 1 FROM DUAL
+    testWhileIdle: true
+    testOnBorrow: false
+    testOnReturn: false
+    poolPreparedStatements: true
+    #配置监控统计拦截的filters，去掉后监控界面sql无法统计，'wall'用于防火墙
+    filters: stat,wall
+    maxPoolPreparedStatementPerConnectionSize: 20
+    useGlobalDataSourceStat: true
+    connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=500
+
+mybatis:
+  type-aliases-package: demo1_api.entities    # 所有Entity别名类所在包
+  config-location: classpath:mybatis/mybatis-config.xml #指定全局配置文件的位置
+  mapper-locations: classpath:mybatis/mapper/*.xml  #指定sql映射文件的位置
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka1.cn:7001/eureka/,http://eureka2.cn:7002/eureka/,http://eureka3.cn:7003/eureka/
+  instance:
+    instance-id: 服务1-8081
+    prefer-ip-address: true #显示ip
+info:
+  app.name: demo1provider1
+  company.name: Athink
+  build.artifactId: ${project.artifactId}
+  build.version: ${project.version}
+

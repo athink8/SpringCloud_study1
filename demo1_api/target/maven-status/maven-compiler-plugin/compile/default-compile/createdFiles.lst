@@ -1,0 +1,3 @@
+demo1_api\Demo1ApiApplication.class
+demo1_api\entities\User.class
+demo1_api\FeignClientService\UserClientService.class

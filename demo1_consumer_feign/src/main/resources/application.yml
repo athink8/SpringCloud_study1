@@ -1,0 +1,18 @@
+server:
+  port: 80
+
+eureka:
+  client:
+#    register-with-eureka: false
+    service-url:
+     defaultZone: http://eureka1.cn:7001/eureka/,http://eureka2.cn:7002/eureka/,http://eureka3.cn:7003/eureka/
+#   enabled: true
+
+#开启feign对hystrix的支持
+feign:
+  hystrix:
+    enabled: true
+
+spring:
+  application:
+    name: consumerfeign

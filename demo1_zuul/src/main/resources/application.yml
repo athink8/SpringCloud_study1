@@ -1,0 +1,51 @@
+server:
+  port: 9100
+
+spring:
+  application:
+    name: springcloud-zuul
+
+eureka:
+  instance:
+    instance-id: zuul-9100
+    prefer-ip-address: true #显示ip
+  client:
+    service-url:
+      defaultZone: http://eureka1.cn:7001/eureka/,http://eureka2.cn:7002/eureka/,http://eureka3.cn:7003/eureka/
+
+zuul:
+  ignored-services: "*"
+  #ribbonIsolationStrategy: THREAD
+  sensitive-headers: Access-Control-Allow-Origin
+    #ignored-headers: Access-Control-Allow-Origin,H-APP-Id,APPToken
+    #strip-prefix: true #全局去掉前缀 无效
+    #sensitive-headers: true
+    #MyZuulFilter: #过滤类名
+    #pre: #过滤类型
+  #disable: true
+  routes:
+    demo1provider1: # 标识 随意写
+      path: /p1/**  #访问路径
+      serviceId: demo1provider1 #服务名
+    demo1_consumer_feign:
+      serviceId: consumerfeign
+      path: /c1/**
+    a:
+      path: /a/**
+      #stripPrefix: true  #当前去掉前缀
+    host:
+      connect-timeout-millis: 10000
+      socket-timeout-millis: 10000
+
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 6000
+#负载均衡
+ribbon:
+  ConnectionTimeout: 500
+  ReadTimeout: 2000

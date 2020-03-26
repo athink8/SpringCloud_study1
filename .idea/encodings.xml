@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1_config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1_config/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1_consumer_80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1_consumer_feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1_consumer_hystrix_dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1_eurekaserver_7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1_eurekaserver_7001/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1_eurekaserver_7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1_eurekaserver_7003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1_provider_8081" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1_provider_8081/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1_provider_8081/src/main/resources/bootstrap.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1_provider_8082" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1_provider_8082/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1_provider_8083" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1_provider_8083/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1_sleuth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1_zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1_zuul/src/main/resources/application.yml" charset="UTF-8" />
+  </component>
+</project>

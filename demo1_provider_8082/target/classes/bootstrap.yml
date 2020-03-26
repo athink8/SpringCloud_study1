@@ -1,0 +1,29 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: demo1provider1
+  cloud:
+    config:
+      label: master # 配置仓库的分支
+      #uri: http://localhost:9200
+      name: demo1_provider_1 #需要从github上读取的资源名称，注意没有yml后缀名
+      profile: dev,demo1provider1_mysql_2 #配置类型
+      discovery:
+        enabled: true
+        service-id: demo1config
+      #fail-fast: true
+
+#需放置在bootstrap.yml里
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka1.cn:7001/eureka/,http://eureka2.cn:7002/eureka/,http://eureka3.cn:7003/eureka/
+  instance:
+    instance-id: 服务1-8082
+    prefer-ip-address: true #显示ip
+info:
+  app.name: demo1provider1
+  company.name: Athink
+  build.artifactId: demo1_provider_8082
+  build.version: 0.0.1-SNAPSHOT

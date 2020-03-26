@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/demo1_api/pom.xml" />
+        <option value="$PROJECT_DIR$/demo1_provider_8081/pom.xml" />
+        <option value="$PROJECT_DIR$/demo1_consumer_80/pom.xml" />
+        <option value="$PROJECT_DIR$/demo1_eurekaserver_7001/pom.xml" />
+        <option value="$PROJECT_DIR$/demo1_eurekaserver_7002/pom.xml" />
+        <option value="$PROJECT_DIR$/demo1_eurekaserver_7003/pom.xml" />
+        <option value="$PROJECT_DIR$/demo1_provider_8082/pom.xml" />
+        <option value="$PROJECT_DIR$/demo1_provider_8083/pom.xml" />
+        <option value="$PROJECT_DIR$/demo1_consumer_feign/pom.xml" />
+        <option value="$PROJECT_DIR$/demo1_consumer_hystrix_dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/demo1_zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/demo1_config/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>WebSocket</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Web Services</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

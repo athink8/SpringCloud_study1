@@ -1,0 +1,30 @@
+spring:
+  #profiles:
+    #active: native #开启本地配置文件
+  application:
+    name: demo1config
+  cloud:
+    config:
+      label: master # 配置仓库的分支
+      server:
+        git:
+          # 配置git仓库地址
+          #uri: https://github.com/athink8/SpringCloud-Config.git
+          uri: https://e.coding.net/athink8/SpringCloud-Config-coding.git
+          # 配置仓库路下的相对路径.可以,配置多个
+          #search-paths: /
+          username: athink8@163.com # 访问git仓库的用户名
+          password: jz0123456789 # 访问git仓库的密码
+        #native:  #本地配置文件
+          #search-locations: file:///E:\yuyan\java\spring\other\SpringCloud\SpringCloud-Config\SpringCloud-Config
+
+server:
+  port: 9200
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka1.cn:7001/eureka/,http://eureka2.cn:7002/eureka/,http://eureka3.cn:7003/eureka/
+  instance:
+    instance-id: config9200
+    prefer-ip-address: true #显示ip

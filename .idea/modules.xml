@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo1.iml" filepath="$PROJECT_DIR$/demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1_api/demo1_api.iml" filepath="$PROJECT_DIR$/demo1_api/demo1_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1_config/demo1_config.iml" filepath="$PROJECT_DIR$/demo1_config/demo1_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1_consumer_80/demo1_consumer_80.iml" filepath="$PROJECT_DIR$/demo1_consumer_80/demo1_consumer_80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1_consumer_feign/demo1_consumer_feign.iml" filepath="$PROJECT_DIR$/demo1_consumer_feign/demo1_consumer_feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1_consumer_hystrix_dashboard/demo1_consumer_hystrix_dashboard.iml" filepath="$PROJECT_DIR$/demo1_consumer_hystrix_dashboard/demo1_consumer_hystrix_dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1_eurekaserver_7001/demo1_eurekaserver_7001.iml" filepath="$PROJECT_DIR$/demo1_eurekaserver_7001/demo1_eurekaserver_7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1_eurekaserver_7002/demo1_eurekaserver_7002.iml" filepath="$PROJECT_DIR$/demo1_eurekaserver_7002/demo1_eurekaserver_7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1_eurekaserver_7003/demo1_eurekaserver_7003.iml" filepath="$PROJECT_DIR$/demo1_eurekaserver_7003/demo1_eurekaserver_7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1_provider_8081/demo1_provider_8081.iml" filepath="$PROJECT_DIR$/demo1_provider_8081/demo1_provider_8081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1_provider_8082/demo1_provider_8082.iml" filepath="$PROJECT_DIR$/demo1_provider_8082/demo1_provider_8082.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1_provider_8083/demo1_provider_8083.iml" filepath="$PROJECT_DIR$/demo1_provider_8083/demo1_provider_8083.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1_zuul/demo1_zuul.iml" filepath="$PROJECT_DIR$/demo1_zuul/demo1_zuul.iml" />
+    </modules>
+  </component>
+</project>
