@@ -1,81 +1,83 @@
-## Î¢·þÎñSpringCloud»ù´¡Ñ§Ï°¼°°¸Àý
+## å¾®æœåŠ¡SpringCloudåŸºç¡€å­¦ä¹ åŠæ¡ˆä¾‹
 
-> ÎÒµÄ²©¿Í£º[https://blog.onfree.cn](https://blog.onfree.cn/)
+> æˆ‘çš„åšå®¢ï¼š[https://blog.onfree.cn](https://blog.onfree.cn/)
 
-### Ò»¡¢³£¼ûÎÊÌâ
+> åšå®¢åŽŸæ–‡ï¼š[https://blog.onfree.cn/posts/933a0c1f.html](https://blog.onfree.cn/posts/933a0c1f.html)
 
-1. Ê²Ã´ÊÇÎ¢·þÎñ£¬Î¢·þÎñ¼Ü¹¹£¿
+### ä¸€ã€å¸¸è§é—®é¢˜
 
-   - Î¢·þÎñ£ºÇ¿µ÷µÄÊÇ·þÎñµÄ´óÐ¡£¬Ëü¹Ø×¢µÄÊÇÄ³Ò»¸öµã£¬ÊÇ¾ßÌå½â¾öÄ³Ò»¸öÎÊÌâ/Ìá¹©ÂäµØ¶ÔÓ¦·þÎñµÄÒ»¸ö·þÎñÓ¦ÓÃ£¬ÏÁÒâµÄ¿´£¬¿ÉÒÔ¿´×÷EcipseÀïÃæµÄÒ»¸ö¸öÎ¢·þÎñ¹¤³Ì/»òÕßModule
+1. ä»€ä¹ˆæ˜¯å¾®æœåŠ¡ï¼Œå¾®æœåŠ¡æž¶æž„ï¼Ÿ
 
-   - Î¢·þÎñ¼Ü¹¹£ºÊÇÒ»ÖÖ¼Ü¹¹Ä£Ê½£¬ËüÌá³«½«µ¥Ò»Ó¦ÓÃ³ÌÐò»®·Ö³ÉÒ»×éÐ¡µÄ·þÎñ£¬·þÎñÖ®¼ä»¥ÏàÐ­µ÷¡¢»¥ÏàÅäºÏ£¬ÎªÓÃ»§Ìá¹©×îÖÕ¼ÛÖµ¡£Ã¿¸ö·þÎñÔËÐÐÔÚÆä¶ÀÁ¢µÄ½ø³ÌÖÐ£¬·þÎñÓë·þÎñ¼ä²ÉÓÃÇáÁ¿¼¶µÄÍ¨ÐÅ»úÖÆ»¥ÏàÐ­×÷£¨Í¨³£ÊÇ»ùÓÚHTTPÐ­ÒéµÄRESTfulAPl£©¡£Ã¿¸ö·þÎñ¶¼Î§ÈÆ×Å¾ßÌåÒµÎñ½øÐÐ¹¹½¨£¬²¢ÇÒÄÜ¹»±»¶ÀÁ¢µÄ²¿Êðµ½Éú²ú»·¾³¡¢ÀàÉú²ú»·¾³µÈ¡£ÁíÍâ£¬Ó¦µ±¾¡Á¿±ÜÃâÍ³Ò»µÄ¡¢¼¯ÖÐÊ½µÄ·þÎñ¹ÜÀí»úÖÆ£¬¶Ô¾ßÌåµÄÒ»¸ö·þÎñ¶øÑÔ£¬Ó¦¸ù¾ÝÒµÎñÉÏÏÂÎÄ£¬Ñ¡ÔñºÏÊÊµÄÓïÑÔ¡¢¹¤¾ß¶ÔÆä½øÐÐ¹¹½¨¡£
+   - å¾®æœåŠ¡ï¼šå¼ºè°ƒçš„æ˜¯æœåŠ¡çš„å¤§å°ï¼Œå®ƒå…³æ³¨çš„æ˜¯æŸä¸€ä¸ªç‚¹ï¼Œæ˜¯å…·ä½“è§£å†³æŸä¸€ä¸ªé—®é¢˜/æä¾›è½åœ°å¯¹åº”æœåŠ¡çš„ä¸€ä¸ªæœåŠ¡åº”ç”¨ï¼Œç‹­æ„çš„çœ‹ï¼Œå¯ä»¥çœ‹ä½œEcipseé‡Œé¢çš„ä¸€ä¸ªä¸ªå¾®æœåŠ¡å·¥ç¨‹/æˆ–è€…Module
 
-2. Î¢·þÎñµÄÓÅÈ±µã£¿
+   - å¾®æœåŠ¡æž¶æž„ï¼šæ˜¯ä¸€ç§æž¶æž„æ¨¡å¼ï¼Œå®ƒæå€¡å°†å•ä¸€åº”ç”¨ç¨‹åºåˆ’åˆ†æˆä¸€ç»„å°çš„æœåŠ¡ï¼ŒæœåŠ¡ä¹‹é—´äº’ç›¸åè°ƒã€äº’ç›¸é…åˆï¼Œä¸ºç”¨æˆ·æä¾›æœ€ç»ˆä»·å€¼ã€‚æ¯ä¸ªæœåŠ¡è¿è¡Œåœ¨å…¶ç‹¬ç«‹çš„è¿›ç¨‹ä¸­ï¼ŒæœåŠ¡ä¸ŽæœåŠ¡é—´é‡‡ç”¨è½»é‡çº§çš„é€šä¿¡æœºåˆ¶äº’ç›¸åä½œï¼ˆé€šå¸¸æ˜¯åŸºäºŽHTTPåè®®çš„RESTfulAPlï¼‰ã€‚æ¯ä¸ªæœåŠ¡éƒ½å›´ç»•ç€å…·ä½“ä¸šåŠ¡è¿›è¡Œæž„å»ºï¼Œå¹¶ä¸”èƒ½å¤Ÿè¢«ç‹¬ç«‹çš„éƒ¨ç½²åˆ°ç”Ÿäº§çŽ¯å¢ƒã€ç±»ç”Ÿäº§çŽ¯å¢ƒç­‰ã€‚å¦å¤–ï¼Œåº”å½“å°½é‡é¿å…ç»Ÿä¸€çš„ã€é›†ä¸­å¼çš„æœåŠ¡ç®¡ç†æœºåˆ¶ï¼Œå¯¹å…·ä½“çš„ä¸€ä¸ªæœåŠ¡è€Œè¨€ï¼Œåº”æ ¹æ®ä¸šåŠ¡ä¸Šä¸‹æ–‡ï¼Œé€‰æ‹©åˆé€‚çš„è¯­è¨€ã€å·¥å…·å¯¹å…¶è¿›è¡Œæž„å»ºã€‚
 
-   - `ÓÅµã`
-     Ã¿¸ö·þÎñ×ã¹»ÄÚ¾Û£¬×ã¹»Ð¡£¬´úÂëÈÝÒ×Àí½âÕâÑùÄÜ¾Û½¹Ò»¸öÖ¸¶¨µÄÒµÎñ¹¦ÄÜ»òÒµÎñÐèÇó¿ª·¢¼òµ¥¡¢¿ª·¢Ð§ÂÊÌá¸ß£¬Ò»¸ö·þÎñ¿ÉÄÜ¾ÍÊÇ×¨Ò»µÄÖ»¸ÉÒ»¼þÊÂ¡£
+2. å¾®æœåŠ¡çš„ä¼˜ç¼ºç‚¹ï¼Ÿ
 
-     Î¢·þÎñÄÜ¹»±»Ð¡ÍÅ¶Óµ¥¶À¿ª·¢£¬Õâ¸öÐ¡ÍÅ¶ÓÊÇ2µ½5ÈËµÄ¿ª·¢ÈËÔ±×é³É¡£
+   - `ä¼˜ç‚¹`
+     æ¯ä¸ªæœåŠ¡è¶³å¤Ÿå†…èšï¼Œè¶³å¤Ÿå°ï¼Œä»£ç å®¹æ˜“ç†è§£è¿™æ ·èƒ½èšç„¦ä¸€ä¸ªæŒ‡å®šçš„ä¸šåŠ¡åŠŸèƒ½æˆ–ä¸šåŠ¡éœ€æ±‚å¼€å‘ç®€å•ã€å¼€å‘æ•ˆçŽ‡æé«˜ï¼Œä¸€ä¸ªæœåŠ¡å¯èƒ½å°±æ˜¯ä¸“ä¸€çš„åªå¹²ä¸€ä»¶äº‹ã€‚
 
-     Î¢·þÎñÊÇËÉñîºÏµÄ£¬ÊÇÓÐ¹¦ÄÜÒâÒåµÄ·þÎñ£¬ÎÞÂÛÊÇÔÚ¿ª·¢½×¶Î»ò²¿Êð½×¶Î¶¼ÊÇ¶ÀÁ¢µÄ¡£
+     å¾®æœåŠ¡èƒ½å¤Ÿè¢«å°å›¢é˜Ÿå•ç‹¬å¼€å‘ï¼Œè¿™ä¸ªå°å›¢é˜Ÿæ˜¯2åˆ°5äººçš„å¼€å‘äººå‘˜ç»„æˆã€‚
 
-     Î¢·þÎñÄÜÊ¹ÓÃ²»Í¬µÄÓïÑÔ¿ª·¢¡£
+     å¾®æœåŠ¡æ˜¯æ¾è€¦åˆçš„ï¼Œæ˜¯æœ‰åŠŸèƒ½æ„ä¹‰çš„æœåŠ¡ï¼Œæ— è®ºæ˜¯åœ¨å¼€å‘é˜¶æ®µæˆ–éƒ¨ç½²é˜¶æ®µéƒ½æ˜¯ç‹¬ç«‹çš„ã€‚
 
-     Ò×ÓÚºÍµÚÈý·½¼¯³É£¬Î¢·þÎñÔÊÐíÈÝÒ×ÇÒÁé»îµÄ·½Ê½¼¯³É×Ô¶¯²¿Êð£¬Í¨¹ý³ÖÐø¼¯³É¹¤¾ß£¬ÈçJenkins£¬Hudson£¬bamboo¡£
+     å¾®æœåŠ¡èƒ½ä½¿ç”¨ä¸åŒçš„è¯­è¨€å¼€å‘ã€‚
 
-     Î¢·þÎñÒ×ÓÚ±»Ò»¸ö¿ª·¢ÈËÔ±Àí½â£¬ÐÞ¸ÄºÍÎ¬»¤£¬ÕâÑùÐ¡ÍÅ¶ÓÄÜ¹»¸ü¹Ø×¢×Ô¼ºµÄ¹¤×÷³É¹û¡£ÎÞÐèÍ¨¹ýºÏ×÷²ÅÄÜÌåÏÖ¼ÛÖµ¡£
+     æ˜“äºŽå’Œç¬¬ä¸‰æ–¹é›†æˆï¼Œå¾®æœåŠ¡å…è®¸å®¹æ˜“ä¸”çµæ´»çš„æ–¹å¼é›†æˆè‡ªåŠ¨éƒ¨ç½²ï¼Œé€šè¿‡æŒç»­é›†æˆå·¥å…·ï¼Œå¦‚Jenkinsï¼ŒHudsonï¼Œbambooã€‚
 
-     Î¢·þÎñÔÊÐíÄãÀûÓÃÈÚºÏ×îÐÂ¼¼Êõ¡£
+     å¾®æœåŠ¡æ˜“äºŽè¢«ä¸€ä¸ªå¼€å‘äººå‘˜ç†è§£ï¼Œä¿®æ”¹å’Œç»´æŠ¤ï¼Œè¿™æ ·å°å›¢é˜Ÿèƒ½å¤Ÿæ›´å…³æ³¨è‡ªå·±çš„å·¥ä½œæˆæžœã€‚æ— éœ€é€šè¿‡åˆä½œæ‰èƒ½ä½“çŽ°ä»·å€¼ã€‚
 
-     Î¢·þÎñÖ»ÊÇÒµÎñÂß¼­µÄ´úÂë£¬²»»áºÍHTML£¬CSS»òÆäËû½çÃæ×é¼þ»ìºÏ¡£Ã¿¸öÎ¢·þÎñ¶¼ÓÐ×Ô¼ºµÄ´æ´¢ÄÜÁ¦£¬¿ÉÒÔÓÐ×Ô¼ºµÄÊý¾Ý¿â¡£Ò²¿ÉÒÔÓÐÍ³Ò»Êý¾Ý¿â¡£
+     å¾®æœåŠ¡å…è®¸ä½ åˆ©ç”¨èžåˆæœ€æ–°æŠ€æœ¯ã€‚
 
-   - `È±µã`
-     ¿ª·¢ÈËÔ±Òª´¦Àí·Ö²¼Ê½ÏµÍ³µÄ¸´ÔÓÐÔ
+     å¾®æœåŠ¡åªæ˜¯ä¸šåŠ¡é€»è¾‘çš„ä»£ç ï¼Œä¸ä¼šå’ŒHTMLï¼ŒCSSæˆ–å…¶ä»–ç•Œé¢ç»„ä»¶æ··åˆã€‚æ¯ä¸ªå¾®æœåŠ¡éƒ½æœ‰è‡ªå·±çš„å­˜å‚¨èƒ½åŠ›ï¼Œå¯ä»¥æœ‰è‡ªå·±çš„æ•°æ®åº“ã€‚ä¹Ÿå¯ä»¥æœ‰ç»Ÿä¸€æ•°æ®åº“ã€‚
 
-     ¶à·þÎñÔËÎ¬ÄÑ¶È£¬Ëæ×Å·þÎñµÄÔö¼Ó£¬ÔËÎ¬µÄÑ¹Á¦Ò²ÔÚÔö´óÏµÍ³²¿ÊðÒÀÀµ
+   - `ç¼ºç‚¹`
+     å¼€å‘äººå‘˜è¦å¤„ç†åˆ†å¸ƒå¼ç³»ç»Ÿçš„å¤æ‚æ€§
 
-     ·þÎñ¼äÍ¨ÐÅ³É
+     å¤šæœåŠ¡è¿ç»´éš¾åº¦ï¼Œéšç€æœåŠ¡çš„å¢žåŠ ï¼Œè¿ç»´çš„åŽ‹åŠ›ä¹Ÿåœ¨å¢žå¤§ç³»ç»Ÿéƒ¨ç½²ä¾èµ–
 
-     Êý¾ÝÒ»ÖÂÐÔ
+     æœåŠ¡é—´é€šä¿¡æˆ
 
-     ÏµÍ³¼¯³É²âÊÔ
+     æ•°æ®ä¸€è‡´æ€§
 
-     ÐÔÄÜ¼à¿Ø..
+     ç³»ç»Ÿé›†æˆæµ‹è¯•
 
-3. SpringCloudºÍDobboµÄÇø±ð?
-   SpringClouµÄÍ¨ÐÅ»úÖÆÊÇ»ùÓÚHTTPµÄRESTful Api£¬¶øDobooÊÇÊ¹ÓÃRPC;
+     æ€§èƒ½ç›‘æŽ§..
+
+3. SpringCloudå’ŒDobboçš„åŒºåˆ«?
+   SpringClouçš„é€šä¿¡æœºåˆ¶æ˜¯åŸºäºŽHTTPçš„RESTful Apiï¼Œè€ŒDobooæ˜¯ä½¿ç”¨RPC;
 
 <img src="https://cdn.jsdelivr.net/gh/athink8/cdn@master/imgs/arctle/SpringCloud%E5%AF%B9%E4%B8%8Ddobbo.png" alt="image" style="zoom: 67%;" />
 
-3. SpringCloudÊÇÊ²Ã´£¿
+3. SpringCloudæ˜¯ä»€ä¹ˆï¼Ÿ
 
-   SpringCloud£¬»ùÓÚSpringBootÌá¹©ÁËÒ»Ì×Î¢·þÎñ½â¾ö·½°¸£¬À¨·þÎñ×¢²áÓë·¢ÏÖ£¬ÅäÖÃÖÐÐÄ£¬È«Á´Â·¼à¿Ø£¬·þÎñÍø¹Ø£¬¸ºÔØ¾ùºâ£¬ÈÛ¶ÏÆ÷µÈ×é¼þ£¬³ýÁË»ùÓÚNetFlixµÄ¿ªÔ´×é¼þ×ö¸ß¶È³éÏó·â×°Ö®Íâ£¬»¹ÓÐÒ»Ð©Ñ¡ÐÍÖÐÁ¢µÄ¿ªÔ´×é¼þ¡£
+   SpringCloudï¼ŒåŸºäºŽSpringBootæä¾›äº†ä¸€å¥—å¾®æœåŠ¡è§£å†³æ–¹æ¡ˆï¼Œæ‹¬æœåŠ¡æ³¨å†Œä¸Žå‘çŽ°ï¼Œé…ç½®ä¸­å¿ƒï¼Œå…¨é“¾è·¯ç›‘æŽ§ï¼ŒæœåŠ¡ç½‘å…³ï¼Œè´Ÿè½½å‡è¡¡ï¼Œç†”æ–­å™¨ç­‰ç»„ä»¶ï¼Œé™¤äº†åŸºäºŽNetFlixçš„å¼€æºç»„ä»¶åšé«˜åº¦æŠ½è±¡å°è£…ä¹‹å¤–ï¼Œè¿˜æœ‰ä¸€äº›é€‰åž‹ä¸­ç«‹çš„å¼€æºç»„ä»¶ã€‚
 
-   Ò²¾ÍÊÇ·Ö²¼Ê½Î¢·þÎñ¼Ü¹¹ÏÂµÄÒ»Õ¾Ê½½â¾ö·½°¸£¬ÊÇ¸÷¸öÎ¢·þÎñ¼Ü¹¹ÂäµØ¼¼ÊõµÄ¼¯ºÏÌå£¬Ë×³ÆÎ¢·þÎñÈ«¼ÒÍ°¡£
+   ä¹Ÿå°±æ˜¯åˆ†å¸ƒå¼å¾®æœåŠ¡æž¶æž„ä¸‹çš„ä¸€ç«™å¼è§£å†³æ–¹æ¡ˆï¼Œæ˜¯å„ä¸ªå¾®æœåŠ¡æž¶æž„è½åœ°æŠ€æœ¯çš„é›†åˆä½“ï¼Œä¿—ç§°å¾®æœåŠ¡å…¨å®¶æ¡¶ã€‚
 
-4. SpringCloudºÍSpringBootÊÇÊ²Ã´¹ØÏµ£¿
+4. SpringCloudå’ŒSpringBootæ˜¯ä»€ä¹ˆå…³ç³»ï¼Ÿ
 
-   SpringBoot×¨×¢ÓÚ¿ìËÙ¡¢·½±ãµÄ¿ªµ¥¸öÎ¢·þÎñ¸öÌå£¬SpringCloud¹Ø×¢È«¾ÖµÄ·þÎñÖÎÀí¿ò¼Ü¡£
+   SpringBootä¸“æ³¨äºŽå¿«é€Ÿã€æ–¹ä¾¿çš„å¼€å•ä¸ªå¾®æœåŠ¡ä¸ªä½“ï¼ŒSpringCloudå…³æ³¨å…¨å±€çš„æœåŠ¡æ²»ç†æ¡†æž¶ã€‚
 
-   SpringBoot×¨×¢ÓÚ¿ìËÙ·½±ãµÄ¿ª·¢µ¥¸ö¸öÌåÎ¢·þÎñ¡£
+   SpringBootä¸“æ³¨äºŽå¿«é€Ÿæ–¹ä¾¿çš„å¼€å‘å•ä¸ªä¸ªä½“å¾®æœåŠ¡ã€‚
 
-   SpringCloudÊÇ¹Ø×¢È«¾ÖµÄÎ¢·þÎñÐ­µ÷ÕûÀíÖÎÀí¿ò¼Ü£¬Ëü½«SpringBoot¿ª·¢µÄÒ»¸ö¸öµ¥ÌåÎ¢·þÎñÕûºÏ²¢¹ÜÀíÆðÀ´£¬Îª¸÷¸öÎ¢·þÎñÖ®¼äÌá¹©£¬ÅäÖÃ¹ÜÀí¡¢·þÎñ·¢ÏÖ¡¢¶ÏÂ·Æ÷¡¢Â·ÓÉ¡¢Î¢´úÀí¡¢ÊÂ¼þ×ÜÏß¡¢È«¾ÖËø¡¢¾ö²ß¾ºÑ¡¡¢·Ö²¼Ê½»á»°µÈµÈ¼¯³É·þSpringBoot¿ÉÒÔÀë¿ªSpringCloud¶ÀÁ¢Ê¹ÓÃ¿ª·¢ÏîÄ¿£¬µ«ÊÇSpringCloudÀë²»¿ªSpringBoot£¬ÊôÓÚÒÀÀµµÄ¹ØÏµ¡£
+   SpringCloudæ˜¯å…³æ³¨å…¨å±€çš„å¾®æœåŠ¡åè°ƒæ•´ç†æ²»ç†æ¡†æž¶ï¼Œå®ƒå°†SpringBootå¼€å‘çš„ä¸€ä¸ªä¸ªå•ä½“å¾®æœåŠ¡æ•´åˆå¹¶ç®¡ç†èµ·æ¥ï¼Œä¸ºå„ä¸ªå¾®æœåŠ¡ä¹‹é—´æä¾›ï¼Œé…ç½®ç®¡ç†ã€æœåŠ¡å‘çŽ°ã€æ–­è·¯å™¨ã€è·¯ç”±ã€å¾®ä»£ç†ã€äº‹ä»¶æ€»çº¿ã€å…¨å±€é”ã€å†³ç­–ç«žé€‰ã€åˆ†å¸ƒå¼ä¼šè¯ç­‰ç­‰é›†æˆæœSpringBootå¯ä»¥ç¦»å¼€SpringCloudç‹¬ç«‹ä½¿ç”¨å¼€å‘é¡¹ç›®ï¼Œä½†æ˜¯SpringCloudç¦»ä¸å¼€SpringBootï¼Œå±žäºŽä¾èµ–çš„å…³ç³»ã€‚
 
-5. Î¢·þÎñ¼¼ÊõÕ»
+5. å¾®æœåŠ¡æŠ€æœ¯æ ˆ
 
    ![image](https://cdn.jsdelivr.net/gh/athink8/cdn@master/imgs/arctle/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%8A%80%E6%9C%AF%E6%A0%881.png)
 
    ![image](https://cdn.jsdelivr.net/gh/athink8/cdn/imgs/arctle/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%8A%80%E6%9C%AF%E6%A0%882.png)
 
-### ¶þ¡¢SpringCloud
+### äºŒã€SpringCloud
 
-SpringCloud¼Ü¹¹£º
+SpringCloudæž¶æž„ï¼š
 
 ![image](https://cdn.jsdelivr.net/gh/athink8/cdn@master/imgs/arctle/SpringCloud%E6%9E%B6%E6%9E%84.png)
 
-> APIÎÄµµ£ºhttps://springcloud.cc/spring-cloud-dalston.html
+> APIæ–‡æ¡£ï¼šhttps://springcloud.cc/spring-cloud-dalston.html
 
-Ìí¼ÓÒÀÀµ£º
+æ·»åŠ ä¾èµ–ï¼š
 
 ```xml
  <dependency>
@@ -94,7 +96,7 @@ SpringCloud¼Ü¹¹£º
             </dependency>
 ```
 
-°æ±¾Ñ¡Ôñ£º
+ç‰ˆæœ¬é€‰æ‹©ï¼š
 
 > [https://start.spring.io/actuator/info](https://start.spring.io/actuator/info)
 
@@ -118,33 +120,33 @@ SpringCloud¼Ü¹¹£º
 >
 > netflix-zuul		2.2.2.RELEASE		
 
-#### 1. Eureka ·þÎñ×¢²áÓë·¢ÏÖ
+#### 1. Eureka æœåŠ¡æ³¨å†Œä¸Žå‘çŽ°
 
-##### 1.1ÊÇÊ²Ã´£¿
+##### 1.1æ˜¯ä»€ä¹ˆï¼Ÿ
 
-EurekaÊÇNetflixµÄÒ»¸ö×ÓÄ£¿é£¬Ò²ÊÇºËÐÄÄ£¿éÖ®Ò»¡£EurekaÊÇÒ»¸ö»ùÓÚRESTµÄ·þÎñ£¬ÓÃÓÚ¶¨Î»·þÎñ£¬ÒÔÊµÏÖÔÆ¶ËÖÐ¼ä²ã·þÎñ·¢ÏÖºÍ¹ÊÕÏ×ªÒÆ¡£·þÎñ×¢²áÓë·¢ÏÖ¶ÔÓÚÎ¢·þÎñ¼Ü¹¹À´ËµÊÇ·Ç³£ÖØÒªµÄ£¬ÓÐÁË·þÎñ·¢ÏÖÓë×¢²á£¬Ö»ÐèÒªÊ¹ÓÃ·þÎñµÄ±êÊ¶·û£¬¾Í¿ÉÒÔ·ÃÎÊµ½·þÎñ£¬¶ø²»ÐèÒªÐÞ¸Ä·þÎñµ÷ÓÃµÄÅäÖÃÎÄ¼þÁË¡£
+Eurekaæ˜¯Netflixçš„ä¸€ä¸ªå­æ¨¡å—ï¼Œä¹Ÿæ˜¯æ ¸å¿ƒæ¨¡å—ä¹‹ä¸€ã€‚Eurekaæ˜¯ä¸€ä¸ªåŸºäºŽRESTçš„æœåŠ¡ï¼Œç”¨äºŽå®šä½æœåŠ¡ï¼Œä»¥å®žçŽ°äº‘ç«¯ä¸­é—´å±‚æœåŠ¡å‘çŽ°å’Œæ•…éšœè½¬ç§»ã€‚æœåŠ¡æ³¨å†Œä¸Žå‘çŽ°å¯¹äºŽå¾®æœåŠ¡æž¶æž„æ¥è¯´æ˜¯éžå¸¸é‡è¦çš„ï¼Œæœ‰äº†æœåŠ¡å‘çŽ°ä¸Žæ³¨å†Œï¼Œåªéœ€è¦ä½¿ç”¨æœåŠ¡çš„æ ‡è¯†ç¬¦ï¼Œå°±å¯ä»¥è®¿é—®åˆ°æœåŠ¡ï¼Œè€Œä¸éœ€è¦ä¿®æ”¹æœåŠ¡è°ƒç”¨çš„é…ç½®æ–‡ä»¶äº†ã€‚
 
-> NetflixÔÚÉè¼ÆEurekaÊ±×ñÊØµÄ¾ÍÊÇAPÔ­Ôò
+> Netflixåœ¨è®¾è®¡Eurekaæ—¶éµå®ˆçš„å°±æ˜¯APåŽŸåˆ™
 >
-> CAPÔ­ÔòÓÖ³ÆCAP¶¨Àí£¬Ö¸µÄÊÇÔÚÒ»¸ö·Ö²¼Ê½ÏµÍ³ÖÐ£¬Consistency£¨Ò»ÖÂÐÔ£©¡¢ Availability£¨¿ÉÓÃÐÔ£©¡¢Partition tolerance£¨·ÖÇøÈÝ´íÐÔ£©£¬ÈýÕß²»¿É¼æµÃ
+> CAPåŽŸåˆ™åˆç§°CAPå®šç†ï¼ŒæŒ‡çš„æ˜¯åœ¨ä¸€ä¸ªåˆ†å¸ƒå¼ç³»ç»Ÿä¸­ï¼ŒConsistencyï¼ˆä¸€è‡´æ€§ï¼‰ã€ Availabilityï¼ˆå¯ç”¨æ€§ï¼‰ã€Partition toleranceï¼ˆåˆ†åŒºå®¹é”™æ€§ï¼‰ï¼Œä¸‰è€…ä¸å¯å…¼å¾—
 
-##### 1.2»ù±¾¼Ü¹¹
+##### 1.2åŸºæœ¬æž¶æž„
 
-Eureka ²ÉÓÃÁË C-S µÄÉè¼Æ¼Ü¹¹¡£Eureka Server ×÷Îª·þÎñ×¢²á¹¦ÄÜµÄ·þÎñÆ÷£¬ËüÊÇ·þÎñ×¢²áÖÐÐÄ¡£
+Eureka é‡‡ç”¨äº† C-S çš„è®¾è®¡æž¶æž„ã€‚Eureka Server ä½œä¸ºæœåŠ¡æ³¨å†ŒåŠŸèƒ½çš„æœåŠ¡å™¨ï¼Œå®ƒæ˜¯æœåŠ¡æ³¨å†Œä¸­å¿ƒã€‚
 
-¶øÏµÍ³ÖÐµÄÆäËûÎ¢·þÎñ£¬Ê¹ÓÃ Eureka µÄ¿Í»§¶ËÁ¬½Óµ½ Eureka Server²¢Î¬³ÖÐÄÌøÁ¬½Ó¡£ÕâÑùÏµÍ³µÄÎ¬»¤ÈËÔ±¾Í¿ÉÒÔÍ¨¹ý Eureka Server À´¼à¿ØÏµÍ³ÖÐ¸÷¸öÎ¢·þÎñÊÇ·ñÕý³£ÔËÐÐ¡£SpringCloud µÄÒ»Ð©ÆäËûÄ£¿é£¨±ÈÈçZuul£©¾Í¿ÉÒÔÍ¨¹ý Eureka Server À´·¢ÏÖÏµÍ³ÖÐµÄÆäËûÎ¢·þÎñ£¬²¢Ö´ÐÐÏà¹ØµÄÂß¼­¡£
+è€Œç³»ç»Ÿä¸­çš„å…¶ä»–å¾®æœåŠ¡ï¼Œä½¿ç”¨ Eureka çš„å®¢æˆ·ç«¯è¿žæŽ¥åˆ° Eureka Serverå¹¶ç»´æŒå¿ƒè·³è¿žæŽ¥ã€‚è¿™æ ·ç³»ç»Ÿçš„ç»´æŠ¤äººå‘˜å°±å¯ä»¥é€šè¿‡ Eureka Server æ¥ç›‘æŽ§ç³»ç»Ÿä¸­å„ä¸ªå¾®æœåŠ¡æ˜¯å¦æ­£å¸¸è¿è¡Œã€‚SpringCloud çš„ä¸€äº›å…¶ä»–æ¨¡å—ï¼ˆæ¯”å¦‚Zuulï¼‰å°±å¯ä»¥é€šè¿‡ Eureka Server æ¥å‘çŽ°ç³»ç»Ÿä¸­çš„å…¶ä»–å¾®æœåŠ¡ï¼Œå¹¶æ‰§è¡Œç›¸å…³çš„é€»è¾‘ã€‚
 
 <img src="https://cdn.jsdelivr.net/gh/athink8/cdn@master/imgs/arctle/Eureka%E6%9E%B6%E6%9E%84.png" alt="image" style="zoom:67%;" />
 
-> Eureka Server Ìá¹©·þÎñ×¢²áºÍ·¢ÏÖ
+> Eureka Server æä¾›æœåŠ¡æ³¨å†Œå’Œå‘çŽ°
 >
-> Service Provider·þÎñÌá¹©·½½«×ÔÉí·þÎñ×¢²áµ½Eureka£¬´Ó¶øÊ¹·þÎñÏû·Ñ·½ÄÜ¹»ÕÒµ½
+> Service ProvideræœåŠ¡æä¾›æ–¹å°†è‡ªèº«æœåŠ¡æ³¨å†Œåˆ°Eurekaï¼Œä»Žè€Œä½¿æœåŠ¡æ¶ˆè´¹æ–¹èƒ½å¤Ÿæ‰¾åˆ°
 >
-> Service Consumer·þÎñÏû·Ñ·½´ÓEureka»ñÈ¡×¢²á·þÎñÁÐ±í£¬´Ó¶øÄÜ¹»Ïû·Ñ·þÎñ
+> Service ConsumeræœåŠ¡æ¶ˆè´¹æ–¹ä»ŽEurekaèŽ·å–æ³¨å†ŒæœåŠ¡åˆ—è¡¨ï¼Œä»Žè€Œèƒ½å¤Ÿæ¶ˆè´¹æœåŠ¡
 
-##### 1.3Ê¹ÓÃ
+##### 1.3ä½¿ç”¨
 
-###### ·þÎñÖÐÐÄ
+###### æœåŠ¡ä¸­å¿ƒ
 
 - pom:
 
@@ -169,13 +171,13 @@ Eureka ²ÉÓÃÁË C-S µÄÉè¼Æ¼Ü¹¹¡£Eureka Server ×÷Îª·þÎñ×¢²á¹¦ÄÜµÄ·þÎñÆ÷£¬ËüÊÇ·þÎñ×¢
     instance:
       hostname: localhost
     client:
-      register-with-eureka: false #false±íÊ¾²»Ïò×¢²áÖÐÐÄ×¢²á×Ô¼º¡£
-      fetch-registry: false #false±íÊ¾×Ô¼º¶Ë¾ÍÊÇ×¢²áÖÐÐÄ£¬ÎÒµÄÖ°Ôð¾ÍÊÇÎ¬»¤·þÎñÊµÀý£¬²¢²»ÐèÒªÈ¥¼ìË÷·þÎñ
+      register-with-eureka: false #falseè¡¨ç¤ºä¸å‘æ³¨å†Œä¸­å¿ƒæ³¨å†Œè‡ªå·±ã€‚
+      fetch-registry: false #falseè¡¨ç¤ºè‡ªå·±ç«¯å°±æ˜¯æ³¨å†Œä¸­å¿ƒï¼Œæˆ‘çš„èŒè´£å°±æ˜¯ç»´æŠ¤æœåŠ¡å®žä¾‹ï¼Œå¹¶ä¸éœ€è¦åŽ»æ£€ç´¢æœåŠ¡
       service-url:
         defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
   ```
 
-- Æô¶¯Àà
+- å¯åŠ¨ç±»
 
   ```
   @EnableEurekaServer
@@ -183,7 +185,7 @@ Eureka ²ÉÓÃÁË C-S µÄÉè¼Æ¼Ü¹¹¡£Eureka Server ×÷Îª·þÎñ×¢²á¹¦ÄÜµÄ·þÎñÆ÷£¬ËüÊÇ·þÎñ×¢
 
   
 
-###### ¿Í»§¶Ë
+###### å®¢æˆ·ç«¯
 
 - pom:
 
@@ -210,19 +212,19 @@ Eureka ²ÉÓÃÁË C-S µÄÉè¼Æ¼Ü¹¹¡£Eureka Server ×÷Îª·þÎñ×¢²á¹¦ÄÜµÄ·þÎñÆ÷£¬ËüÊÇ·þÎñ×¢
       service-url:
         defaultZone: http://localhost:7001/eureka/
     instance:
-      instance-id: ·þÎñ1 #·þÎñÃû
-      prefer-ip-address: true #ÏÔÊ¾ip
-  info: #ÐÅÏ¢
-    app.name: ·þÎñ1-8081
+      instance-id: æœåŠ¡1 #æœåŠ¡å
+      prefer-ip-address: true #æ˜¾ç¤ºip
+  info: #ä¿¡æ¯
+    app.name: æœåŠ¡1-8081
     company.name: Athink
     build.artifactId: ${project.artifactId}
     build.version: ${project.version}
   ```
 
-- ¸¸pom:
+- çˆ¶pom:
 
   ```xml
-  #ÎªÁËÏÔÊ¾·þÎñinfoÐÅÏ¢    
+  #ä¸ºäº†æ˜¾ç¤ºæœåŠ¡infoä¿¡æ¯    
   	<build>
           <finalName>${project.artifactId}</finalName>
           <resources>
@@ -250,21 +252,21 @@ Eureka ²ÉÓÃÁË C-S µÄÉè¼Æ¼Ü¹¹¡£Eureka Server ×÷Îª·þÎñ×¢²á¹¦ÄÜµÄ·þÎñÆ÷£¬ËüÊÇ·þÎñ×¢
   
   ```
 
-- Æô¶¯Àà
+- å¯åŠ¨ç±»
 
   ```java
-  //ÆäÊµÕâÀï²âÊÔ²»ÓÃÐ´Ò²Í¨¹ý  ÕæÆæ¹Ö
+  //å…¶å®žè¿™é‡Œæµ‹è¯•ä¸ç”¨å†™ä¹Ÿé€šè¿‡  çœŸå¥‡æ€ª
   @EnableEurekaClient
   ```
 
-  ##### 1.4·þÎñ·¢ÏÖ
+  ##### 1.4æœåŠ¡å‘çŽ°
 
-¶ÔÓÚ×¢²á½øeurekaÀïÃæµÄÎ¢·þÎñ£¬¿ÉÒÔÍ¨¹ý·þÎñ·¢ÏÖÀ´»ñµÃ¸Ã·þÎñµÄÐÅÏ¢
+å¯¹äºŽæ³¨å†Œè¿›eurekaé‡Œé¢çš„å¾®æœåŠ¡ï¼Œå¯ä»¥é€šè¿‡æœåŠ¡å‘çŽ°æ¥èŽ·å¾—è¯¥æœåŠ¡çš„ä¿¡æ¯
 
-- controller£º
+- controllerï¼š
 
   ```java
-  /*·þÎñ·¢ÏÖ*/
+  /*æœåŠ¡å‘çŽ°*/
       @GetMapping("/discovery")
       public Object discovery() {
           List list = eurekaDiscoveryClient.getServices();
@@ -278,37 +280,37 @@ Eureka ²ÉÓÃÁË C-S µÄÉè¼Æ¼Ü¹¹¡£Eureka Server ×÷Îª·þÎñ×¢²á¹¦ÄÜµÄ·þÎñÆ÷£¬ËüÊÇ·þÎñ×¢
       }
   ```
 
-- Æô¶¯Àà
+- å¯åŠ¨ç±»
 
   ```java
   @EnableDiscoveryClient
   ```
 
-##### 1.5¼¯Èº
+##### 1.5é›†ç¾¤
 
 ![image](https://cdn.jsdelivr.net/gh/athink8/cdn@master/imgs/arctle/Eureka%E9%9B%86%E7%BE%A4.png)
 
-###### »ù±¾Ô­Àí
+###### åŸºæœ¬åŽŸç†
 
-ÉÏÍ¼ÊÇÀ´×ÔeurekaµÄ¹Ù·½¼Ü¹¹Í¼£¬ÕâÊÇ»ùÓÚ¼¯ÈºÅäÖÃµÄeureka£» 
+ä¸Šå›¾æ˜¯æ¥è‡ªeurekaçš„å®˜æ–¹æž¶æž„å›¾ï¼Œè¿™æ˜¯åŸºäºŽé›†ç¾¤é…ç½®çš„eurekaï¼› 
 
-\- ´¦ÓÚ²»Í¬½ÚµãµÄeurekaÍ¨¹ýReplicate½øÐÐÊý¾ÝÍ¬²½ 
+\- å¤„äºŽä¸åŒèŠ‚ç‚¹çš„eurekaé€šè¿‡Replicateè¿›è¡Œæ•°æ®åŒæ­¥ 
 
-\- Application ServiceÎª·þÎñÌá¹©Õß 
+\- Application Serviceä¸ºæœåŠ¡æä¾›è€… 
 
-\- Application ClientÎª·þÎñÏû·ÑÕß 
+\- Application Clientä¸ºæœåŠ¡æ¶ˆè´¹è€… 
 
-\- Make Remote CallÍê³ÉÒ»´Î·þÎñµ÷ÓÃ
+\- Make Remote Callå®Œæˆä¸€æ¬¡æœåŠ¡è°ƒç”¨
 
-·þÎñÆô¶¯ºóÏòEureka×¢²á£¬Eureka Server»á½«×¢²áÐÅÏ¢ÏòÆäËûEureka Server½øÐÐÍ¬²½£¬µ±·þÎñÏû·ÑÕßÒªµ÷ÓÃ·þÎñÌá¹©Õß£¬ÔòÏò·þÎñ×¢²áÖÐÐÄ»ñÈ¡·þÎñÌá¹©ÕßµØÖ·£¬È»ºó»á½«·þÎñÌá¹©ÕßµØÖ·»º´æÔÚ±¾µØ£¬ÏÂ´ÎÔÙµ÷ÓÃÊ±£¬ÔòÖ±½Ó´Ó±¾µØ»º´æÖÐÈ¡£¬Íê³ÉÒ»´Îµ÷ÓÃ¡£
+æœåŠ¡å¯åŠ¨åŽå‘Eurekaæ³¨å†Œï¼ŒEureka Serverä¼šå°†æ³¨å†Œä¿¡æ¯å‘å…¶ä»–Eureka Serverè¿›è¡ŒåŒæ­¥ï¼Œå½“æœåŠ¡æ¶ˆè´¹è€…è¦è°ƒç”¨æœåŠ¡æä¾›è€…ï¼Œåˆ™å‘æœåŠ¡æ³¨å†Œä¸­å¿ƒèŽ·å–æœåŠ¡æä¾›è€…åœ°å€ï¼Œç„¶åŽä¼šå°†æœåŠ¡æä¾›è€…åœ°å€ç¼“å­˜åœ¨æœ¬åœ°ï¼Œä¸‹æ¬¡å†è°ƒç”¨æ—¶ï¼Œåˆ™ç›´æŽ¥ä»Žæœ¬åœ°ç¼“å­˜ä¸­å–ï¼Œå®Œæˆä¸€æ¬¡è°ƒç”¨ã€‚
 
-µ±·þÎñ×¢²áÖÐÐÄEureka Server¼ì²âµ½·þÎñÌá¹©ÕßÒòÎªå´»ú¡¢ÍøÂçÔ­Òò²»¿ÉÓÃÊ±£¬ÔòÔÚ·þÎñ×¢²áÖÐÐÄ½«·þÎñÖÃÎªDOWN×´Ì¬£¬²¢°Ñµ±Ç°·þÎñÌá¹©Õß×´Ì¬Ïò¶©ÔÄÕß·¢²¼£¬¶©ÔÄ¹ýµÄ·þÎñÏû·ÑÕß¸üÐÂ±¾µØ»º´æ¡£
+å½“æœåŠ¡æ³¨å†Œä¸­å¿ƒEureka Serveræ£€æµ‹åˆ°æœåŠ¡æä¾›è€…å› ä¸ºå®•æœºã€ç½‘ç»œåŽŸå› ä¸å¯ç”¨æ—¶ï¼Œåˆ™åœ¨æœåŠ¡æ³¨å†Œä¸­å¿ƒå°†æœåŠ¡ç½®ä¸ºDOWNçŠ¶æ€ï¼Œå¹¶æŠŠå½“å‰æœåŠ¡æä¾›è€…çŠ¶æ€å‘è®¢é˜…è€…å‘å¸ƒï¼Œè®¢é˜…è¿‡çš„æœåŠ¡æ¶ˆè´¹è€…æ›´æ–°æœ¬åœ°ç¼“å­˜ã€‚
 
-·þÎñÌá¹©ÕßÔÚÆô¶¯ºó£¬ÖÜÆÚÐÔ£¨Ä¬ÈÏ30Ãë£©ÏòEureka Server·¢ËÍÐÄÌø£¬ÒÔÖ¤Ã÷µ±Ç°·þÎñÊÇ¿ÉÓÃ×´Ì¬¡£Eureka ServerÔÚÒ»¶¨µÄÊ±¼ä£¨Ä¬ÈÏ90Ãë£©Î´ÊÕµ½¿Í»§¶ËµÄÐÄÌø£¬ÔòÈÏÎª·þÎñå´»ú£¬×¢Ïú¸ÃÊµÀý¡£
+æœåŠ¡æä¾›è€…åœ¨å¯åŠ¨åŽï¼Œå‘¨æœŸæ€§ï¼ˆé»˜è®¤30ç§’ï¼‰å‘Eureka Serverå‘é€å¿ƒè·³ï¼Œä»¥è¯æ˜Žå½“å‰æœåŠ¡æ˜¯å¯ç”¨çŠ¶æ€ã€‚Eureka Serveråœ¨ä¸€å®šçš„æ—¶é—´ï¼ˆé»˜è®¤90ç§’ï¼‰æœªæ”¶åˆ°å®¢æˆ·ç«¯çš„å¿ƒè·³ï¼Œåˆ™è®¤ä¸ºæœåŠ¡å®•æœºï¼Œæ³¨é”€è¯¥å®žä¾‹ã€‚
 
-###### ´î½¨Ê¹ÓÃ
+###### æ­å»ºä½¿ç”¨
 
-- ·þÎñÖÐÐÄpom:
+- æœåŠ¡ä¸­å¿ƒpom:
 
   ```yml
   server:
@@ -324,7 +326,7 @@ Eureka ²ÉÓÃÁË C-S µÄÉè¼Æ¼Ü¹¹¡£Eureka Server ×÷Îª·þÎñ×¢²á¹¦ÄÜµÄ·þÎñÆ÷£¬ËüÊÇ·þÎñ×¢
         defaultZone: http://eureka2.cn:7002/eureka/,http://eureka3.cn:7003/eureka/
   ```
 
-- ¿Í»§¶Ë£º
+- å®¢æˆ·ç«¯ï¼š
 
   ```yaml
   eureka:
@@ -332,54 +334,54 @@ Eureka ²ÉÓÃÁË C-S µÄÉè¼Æ¼Ü¹¹¡£Eureka Server ×÷Îª·þÎñ×¢²á¹¦ÄÜµÄ·þÎñÆ÷£¬ËüÊÇ·þÎñ×¢
      service-url:
        defaultZone: http://eureka1.cn:7001/eureka/,http://eureka2.cn:7002/eureka/,http://eureka3.cn:7003/eureka/
   instance:
-      instance-id: ·þÎñ1
-      prefer-ip-address: true #ÏÔÊ¾ip
+      instance-id: æœåŠ¡1
+      prefer-ip-address: true #æ˜¾ç¤ºip
   
   info:
-    app.name: ·þÎñ1-8081
+    app.name: æœåŠ¡1-8081
     company.name: Athink
     build.artifactId: ${project.artifactId}
     build.version: ${project.version}
   ```
   
 
-> `×¢Òâ £º ÅäÖÃÀïÐèÒª¼Ó/eureka/£¬ä¯ÀÀÆ÷²»¼Ó²Å¿ÉÒÔ·ÃÎÊ£¡`
+> `æ³¨æ„ ï¼š é…ç½®é‡Œéœ€è¦åŠ /eureka/ï¼Œæµè§ˆå™¨ä¸åŠ æ‰å¯ä»¥è®¿é—®ï¼`
 
-#### 2.Ribbon ¸ºÔØ¾ùºâ
+#### 2.Ribbon è´Ÿè½½å‡è¡¡
 
-##### 2.1ÊÇÊ²Ã´?
+##### 2.1æ˜¯ä»€ä¹ˆ?
 
-Spring Cloud RibbonÊÇ»ùÓÚNetflix RibbonÊµÏÖµÄÒ»Ì×  **¿Í»§¶Ë** ¡¢**¸ºÔØ¾ùºâ**  µÄ¹¤¾ß¡£
+Spring Cloud Ribbonæ˜¯åŸºäºŽNetflix Ribbonå®žçŽ°çš„ä¸€å¥—  **å®¢æˆ·ç«¯** ã€**è´Ÿè½½å‡è¡¡**  çš„å·¥å…·ã€‚
 
-¼òµ¥µÄËµ£¬RibbonÊÇNetflix·¢²¼µÄ¿ªÔ´ÏîÄ¿£¬Ö÷Òª¹¦ÄÜÊÇÌá¹©¿Í»§¶ËµÄÈí¼þ¸ºÔØ¾ùºâËã·¨£¬½«NetflixµÄÖÐ¼ä²ã·þÎñÁ¬½ÓÔÚÒ»Æð¡£Ribbon¿Í»§¶Ë×é¼þÌá¹©Ò»ÏµÁÐÍêÉÆµÄÅäÖÃÏîÈçÁ¬½Ó³¬Ê±£¬ÖØÊÔµÈ¡£¼òµ¥µÄËµ£¬¾ÍÊÇÔÚÅäÖÃÎÄ¼þÖÐÁÐ³öLoad Balancer£¨¼ò³ÆLB£©ºóÃæËùÓÐµÄ»úÆ÷£¬Ribbon»á×Ô¶¯µÄ°ïÖúÄã»ùÓÚÄ³ÖÖ¹æÔò£¨Èç¼òµ¥ÂÖÑ¯£¬Ëæ»úÁ¬½ÓµÈ£©È¥Á¬½ÓÕâÐ©»úÆ÷¡£ÎÒÃÇÒ²ºÜÈÝÒ×Ê¹ÓÃRibbonÊµÏÖ×Ô¶¨ÒåµÄ¸ºÔØ¾ùºâËã·¨¡£
+ç®€å•çš„è¯´ï¼ŒRibbonæ˜¯Netflixå‘å¸ƒçš„å¼€æºé¡¹ç›®ï¼Œä¸»è¦åŠŸèƒ½æ˜¯æä¾›å®¢æˆ·ç«¯çš„è½¯ä»¶è´Ÿè½½å‡è¡¡ç®—æ³•ï¼Œå°†Netflixçš„ä¸­é—´å±‚æœåŠ¡è¿žæŽ¥åœ¨ä¸€èµ·ã€‚Ribbonå®¢æˆ·ç«¯ç»„ä»¶æä¾›ä¸€ç³»åˆ—å®Œå–„çš„é…ç½®é¡¹å¦‚è¿žæŽ¥è¶…æ—¶ï¼Œé‡è¯•ç­‰ã€‚ç®€å•çš„è¯´ï¼Œå°±æ˜¯åœ¨é…ç½®æ–‡ä»¶ä¸­åˆ—å‡ºLoad Balancerï¼ˆç®€ç§°LBï¼‰åŽé¢æ‰€æœ‰çš„æœºå™¨ï¼ŒRibbonä¼šè‡ªåŠ¨çš„å¸®åŠ©ä½ åŸºäºŽæŸç§è§„åˆ™ï¼ˆå¦‚ç®€å•è½®è¯¢ï¼Œéšæœºè¿žæŽ¥ç­‰ï¼‰åŽ»è¿žæŽ¥è¿™äº›æœºå™¨ã€‚æˆ‘ä»¬ä¹Ÿå¾ˆå®¹æ˜“ä½¿ç”¨Ribbonå®žçŽ°è‡ªå®šä¹‰çš„è´Ÿè½½å‡è¡¡ç®—æ³•ã€‚
 
-##### 2.2¸ºÔØ¾ùºâLB½éÉÜ
+##### 2.2è´Ÿè½½å‡è¡¡LBä»‹ç»
 
-> [¹ÙÍø×ÊÁÏ](https://github.com/Netflix/ribbon/wiki/Getting-Started)
+> [å®˜ç½‘èµ„æ–™](https://github.com/Netflix/ribbon/wiki/Getting-Started)
 
-LB£¬¼´¸ºÔØ¾ùºâ(Load Balance)£¬ÔÚÎ¢·þÎñ»ò·Ö²¼Ê½¼¯ÈºÖÐ¾­³£ÓÃµÄÒ»ÖÖÓ¦ÓÃ¡£
+LBï¼Œå³è´Ÿè½½å‡è¡¡(Load Balance)ï¼Œåœ¨å¾®æœåŠ¡æˆ–åˆ†å¸ƒå¼é›†ç¾¤ä¸­ç»å¸¸ç”¨çš„ä¸€ç§åº”ç”¨ã€‚
 
-¸ºÔØ¾ùºâ¼òµ¥µÄËµ¾ÍÊÇ½«ÓÃ»§µÄÇëÇóÆ½Ì¯µÄ·ÖÅäµ½¶à¸ö·þÎñÉÏ£¬´Ó¶ø´ïµ½ÏµÍ³µÄHA¡£
+è´Ÿè½½å‡è¡¡ç®€å•çš„è¯´å°±æ˜¯å°†ç”¨æˆ·çš„è¯·æ±‚å¹³æ‘Šçš„åˆ†é…åˆ°å¤šä¸ªæœåŠ¡ä¸Šï¼Œä»Žè€Œè¾¾åˆ°ç³»ç»Ÿçš„HAã€‚
 
-³£¼ûµÄ¸ºÔØ¾ùºâÓÐÈí¼þNginx£¬LVS£¬Ó²¼þ F5µÈ¡£
+å¸¸è§çš„è´Ÿè½½å‡è¡¡æœ‰è½¯ä»¶Nginxï¼ŒLVSï¼Œç¡¬ä»¶ F5ç­‰ã€‚
 
-ÏàÓ¦µÄÔÚÖÐ¼ä¼þ£¬ÀýÈç£ºdubboºÍSpringCloudÖÐ¾ù¸øÎÒÃÇÌá¹©ÁË¸ºÔØ¾ùºâ£¬SpringCloudµÄ¸ºÔØ¾ùºâËã·¨¿ÉÒÔ×Ô¶¨Òå¡£
+ç›¸åº”çš„åœ¨ä¸­é—´ä»¶ï¼Œä¾‹å¦‚ï¼šdubboå’ŒSpringCloudä¸­å‡ç»™æˆ‘ä»¬æä¾›äº†è´Ÿè½½å‡è¡¡ï¼ŒSpringCloudçš„è´Ÿè½½å‡è¡¡ç®—æ³•å¯ä»¥è‡ªå®šä¹‰ã€‚
 
 ---
 
-- ¼¯ÖÐÊ½LB
+- é›†ä¸­å¼LB
 
-  ¼´ÔÚ·þÎñµÄÏû·Ñ·½ºÍÌá¹©·½Ö®¼äÊ¹ÓÃ¶ÀÁ¢µÄLBÉèÊ©(¿ÉÒÔÊÇÓ²¼þ£¬ÈçF5, Ò²¿ÉÒÔÊÇÈí¼þ£¬Èçnginx), ÓÉ¸ÃÉèÊ©¸ºÔð°Ñ·ÃÎÊÇëÇóÍ¨¹ýÄ³ÖÖ²ßÂÔ×ª·¢ÖÁ·þÎñµÄÌá¹©·½£»
+  å³åœ¨æœåŠ¡çš„æ¶ˆè´¹æ–¹å’Œæä¾›æ–¹ä¹‹é—´ä½¿ç”¨ç‹¬ç«‹çš„LBè®¾æ–½(å¯ä»¥æ˜¯ç¡¬ä»¶ï¼Œå¦‚F5, ä¹Ÿå¯ä»¥æ˜¯è½¯ä»¶ï¼Œå¦‚nginx), ç”±è¯¥è®¾æ–½è´Ÿè´£æŠŠè®¿é—®è¯·æ±‚é€šè¿‡æŸç§ç­–ç•¥è½¬å‘è‡³æœåŠ¡çš„æä¾›æ–¹ï¼›
 
-- ½ø³ÌÄÚLB
+- è¿›ç¨‹å†…LB
 
-  ½«LBÂß¼­¼¯³Éµ½Ïû·Ñ·½£¬Ïû·Ñ·½´Ó·þÎñ×¢²áÖÐÐÄ»ñÖªÓÐÄÄÐ©µØÖ·¿ÉÓÃ£¬È»ºó×Ô¼ºÔÙ´ÓÕâÐ©µØÖ·ÖÐÑ¡Ôñ³öÒ»¸öºÏÊÊµÄ·þÎñÆ÷¡£
+  å°†LBé€»è¾‘é›†æˆåˆ°æ¶ˆè´¹æ–¹ï¼Œæ¶ˆè´¹æ–¹ä»ŽæœåŠ¡æ³¨å†Œä¸­å¿ƒèŽ·çŸ¥æœ‰å“ªäº›åœ°å€å¯ç”¨ï¼Œç„¶åŽè‡ªå·±å†ä»Žè¿™äº›åœ°å€ä¸­é€‰æ‹©å‡ºä¸€ä¸ªåˆé€‚çš„æœåŠ¡å™¨ã€‚
 
-  Ribbon¾ÍÊôÓÚ½ø³ÌÄÚLB£¬ËüÖ»ÊÇÒ»¸öÀà¿â£¬¼¯³ÉÓÚÏû·Ñ·½½ø³Ì£¬Ïû·Ñ·½Í¨¹ýËüÀ´»ñÈ¡µ½·þÎñÌá¹©·½µÄµØÖ·¡£
+  Ribbonå°±å±žäºŽè¿›ç¨‹å†…LBï¼Œå®ƒåªæ˜¯ä¸€ä¸ªç±»åº“ï¼Œé›†æˆäºŽæ¶ˆè´¹æ–¹è¿›ç¨‹ï¼Œæ¶ˆè´¹æ–¹é€šè¿‡å®ƒæ¥èŽ·å–åˆ°æœåŠ¡æä¾›æ–¹çš„åœ°å€ã€‚
 
-##### 2.3³õ²½ÅäÖÃ
+##### 2.3åˆæ­¥é…ç½®
 
-- ¿Í»§¶Ë80
+- å®¢æˆ·ç«¯80
 
   - pom:
 
@@ -418,7 +420,7 @@ LB£¬¼´¸ºÔØ¾ùºâ(Load Balance)£¬ÔÚÎ¢·þÎñ»ò·Ö²¼Ê½¼¯ÈºÖÐ¾­³£ÓÃµÄÒ»ÖÖÓ¦ÓÃ¡£
     @Configuration
     public class beanConfig {
     
-        @LoadBalanced //Ìí¼Ó
+        @LoadBalanced //æ·»åŠ 
         @Bean
         public RestTemplate getRestTemplate()
         {
@@ -428,100 +430,100 @@ LB£¬¼´¸ºÔØ¾ùºâ(Load Balance)£¬ÔÚÎ¢·þÎñ»ò·Ö²¼Ê½¼¯ÈºÖÐ¾­³£ÓÃµÄÒ»ÖÖÓ¦ÓÃ¡£
     }
     ```
 
-  - Æô¶¯Àà£º
+  - å¯åŠ¨ç±»ï¼š
 
     ```java
-    @EnableEurekaClient //Ìí¼Ó
+    @EnableEurekaClient //æ·»åŠ 
     ```
 
   - controller
 
     ```java
-     //µØÖ·ÐÞ¸ÄÎª Î¢·þÎñÃû 
-    //×¢Òâ Î¢·þÎñÃû Îªspring: application£ºname: xxx
-    //Î¢·þÎñÃû ¶¼Îª´óÐ´  Ð¡Ð´»á³ö´í
-    //Î¢·þÎñÃû ²»¿É°üº¬ _
+     //åœ°å€ä¿®æ”¹ä¸º å¾®æœåŠ¡å 
+    //æ³¨æ„ å¾®æœåŠ¡å ä¸ºspring: applicationï¼šname: xxx
+    //å¾®æœåŠ¡å éƒ½ä¸ºå¤§å†™  å°å†™ä¼šå‡ºé”™
+    //å¾®æœåŠ¡å ä¸å¯åŒ…å« _
      private static final String REST_URL_PREFIX = "http://DEMO1PROVIDER8081"+"/user";
     ```
 
-##### 2.4 Ribbon ¸ºÔØ¾ùºâ
+##### 2.4 Ribbon è´Ÿè½½å‡è¡¡
 
 <img src="https://cdn.jsdelivr.net/gh/athink8/cdn@master/imgs/arctle/Ribbon%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E6%9E%B6%E6%9E%84.png" alt="image" style="zoom: 67%;" />
 
-> Í¬¸öÎ¢·þÎñ¿ÉÒÔÐ´¶à¸ö£¬Ö»Òªspring: application£ºname: xxx ÏàÍ¬¾ÍÐÐ£¬Ã¿¸ö·þÎñ¶¼¿Éµ¥¶ÀµÄÁ¬½Ó×Ô¼ºµÄÊý¾Ý¿â
+> åŒä¸ªå¾®æœåŠ¡å¯ä»¥å†™å¤šä¸ªï¼Œåªè¦spring: applicationï¼šname: xxx ç›¸åŒå°±è¡Œï¼Œæ¯ä¸ªæœåŠ¡éƒ½å¯å•ç‹¬çš„è¿žæŽ¥è‡ªå·±çš„æ•°æ®åº“
 >
-> ¿Í»§¶Ëµ÷ÓÃµÄÊ±ºò£¬Ö»»áÍ¨¹ý·þÎñÃûµ÷ÓÃ£¬ÓÉ¿Í»§¶ËµÄRibbon¸ºÔð°´ÕÕµÄÉè¶¨µÄ¸ºÔØ¹æÔòÈ¥Ö´ÐÐ£¬Ä¬ÈÏÂÖÑ¯¡£
+> å®¢æˆ·ç«¯è°ƒç”¨çš„æ—¶å€™ï¼Œåªä¼šé€šè¿‡æœåŠ¡åè°ƒç”¨ï¼Œç”±å®¢æˆ·ç«¯çš„Ribbonè´Ÿè´£æŒ‰ç…§çš„è®¾å®šçš„è´Ÿè½½è§„åˆ™åŽ»æ‰§è¡Œï¼Œé»˜è®¤è½®è¯¢ã€‚
 
-> ×Ü½á£ºRibbonÆäÊµ¾ÍÊÇÒ»¸öÈí¸ºÔØ¾ùºâµÄ¿Í»§¶Ë×é¼þ£¬
+> æ€»ç»“ï¼šRibbonå…¶å®žå°±æ˜¯ä¸€ä¸ªè½¯è´Ÿè½½å‡è¡¡çš„å®¢æˆ·ç«¯ç»„ä»¶ï¼Œ
 >
-> Ëû¿ÉÒÔºÍÆäËûËùÐèÇëÇóµÄ¿Í»§¶Ë½áºÏÊ¹ÓÃ£¬ºÍeureka½áºÏÖ»ÊÇÆäÖÐµÄÒ»¸öÊµÀý¡£
+> ä»–å¯ä»¥å’Œå…¶ä»–æ‰€éœ€è¯·æ±‚çš„å®¢æˆ·ç«¯ç»“åˆä½¿ç”¨ï¼Œå’Œeurekaç»“åˆåªæ˜¯å…¶ä¸­çš„ä¸€ä¸ªå®žä¾‹ã€‚
 
-##### 2.5RibbonºËÐÄ×é¼þIRule
+##### 2.5Ribbonæ ¸å¿ƒç»„ä»¶IRule
 
 ![image](https://cdn.jsdelivr.net/gh/athink8/cdn@master/imgs/arctle/Ribbon%E7%9A%84IRule.jpg)
 
-> IRule£º¸ù¾ÝÌØ¶¨Ëã·¨¹æÔò´Ó·þÎñÁÐ±íÖÐÑ¡È¡Ò»¸öÒª·ÃÎÊµÄ·þÎñ
+> IRuleï¼šæ ¹æ®ç‰¹å®šç®—æ³•è§„åˆ™ä»ŽæœåŠ¡åˆ—è¡¨ä¸­é€‰å–ä¸€ä¸ªè¦è®¿é—®çš„æœåŠ¡
 
 ```yml
-#ÂÖÑ¯
+#è½®è¯¢
 RoundRobinRule
 
-#Ëæ»ú
+#éšæœº
 RandomRule
 
-#»áÏÈ¹ýÂËµôÓÉÓÚ¶à´Î·ÃÎÊ¹ÊÕÏ¶ø´¦ÓÚ¶ÏÂ·Æ÷ÌøÕ¢×´Ì¬µÄ·þÎñ,»¹ÓÐ²¢·¢µÄÁ¬½ÓÊýÁ¿³¬¹ýãÐÖµµÄ·þÎñ£¬È»ºó¶ÔÊ£ÓàµÄ·þÎñÁÐ±í°´ÕÕÂÖÑ¯²ßÂÔ½øÐÐ·ÃÎÊ
+#ä¼šå…ˆè¿‡æ»¤æŽ‰ç”±äºŽå¤šæ¬¡è®¿é—®æ•…éšœè€Œå¤„äºŽæ–­è·¯å™¨è·³é—¸çŠ¶æ€çš„æœåŠ¡,è¿˜æœ‰å¹¶å‘çš„è¿žæŽ¥æ•°é‡è¶…è¿‡é˜ˆå€¼çš„æœåŠ¡ï¼Œç„¶åŽå¯¹å‰©ä½™çš„æœåŠ¡åˆ—è¡¨æŒ‰ç…§è½®è¯¢ç­–ç•¥è¿›è¡Œè®¿é—®
 AvailabilityFilteringRule	
 
-#¸ù¾ÝÆ½¾ùÏìÓ¦Ê±¼ä¼ÆËãËùÓÐ·þÎñµÄÈ¨ÖØ£¬ÏìÓ¦Ê±¼äÔ½¿ì·þÎñÈ¨ÖØÔ½´ó±»Ñ¡ÖÐµÄ¸ÅÂÊÔ½¸ß¡£
-¸ÕÆô¶¯Ê±Èç¹ûÍ³¼ÆÐÅÏ¢²»×ã£¬ÔòÊ¹ÓÃRoundRobinRule²ßÂÔ£¬µÈÍ³¼ÆÐÅÏ¢×ã¹»£¬
-»áÇÐ»»µ½WeightedResponseTimeRule
+#æ ¹æ®å¹³å‡å“åº”æ—¶é—´è®¡ç®—æ‰€æœ‰æœåŠ¡çš„æƒé‡ï¼Œå“åº”æ—¶é—´è¶Šå¿«æœåŠ¡æƒé‡è¶Šå¤§è¢«é€‰ä¸­çš„æ¦‚çŽ‡è¶Šé«˜ã€‚
+åˆšå¯åŠ¨æ—¶å¦‚æžœç»Ÿè®¡ä¿¡æ¯ä¸è¶³ï¼Œåˆ™ä½¿ç”¨RoundRobinRuleç­–ç•¥ï¼Œç­‰ç»Ÿè®¡ä¿¡æ¯è¶³å¤Ÿï¼Œ
+ä¼šåˆ‡æ¢åˆ°WeightedResponseTimeRule
 WeightedResponseTimeRule
 
-#ÏÈ°´ÕÕRoundRobinRuleµÄ²ßÂÔ»ñÈ¡·þÎñ£¬Èç¹û»ñÈ¡·þÎñÊ§°ÜÔòÔÚÖ¸¶¨Ê±¼äÄÚ»á½øÐÐÖØÊÔ£¬»ñÈ¡¿ÉÓÃµÄ·þÎñ
+#å…ˆæŒ‰ç…§RoundRobinRuleçš„ç­–ç•¥èŽ·å–æœåŠ¡ï¼Œå¦‚æžœèŽ·å–æœåŠ¡å¤±è´¥åˆ™åœ¨æŒ‡å®šæ—¶é—´å†…ä¼šè¿›è¡Œé‡è¯•ï¼ŒèŽ·å–å¯ç”¨çš„æœåŠ¡
 RetryRule
 
-#»áÏÈ¹ýÂËµôÓÉÓÚ¶à´Î·ÃÎÊ¹ÊÕÏ¶ø´¦ÓÚ¶ÏÂ·Æ÷ÌøÕ¢×´Ì¬µÄ·þÎñ£¬È»ºóÑ¡ÔñÒ»¸ö²¢·¢Á¿×îÐ¡µÄ·þÎñ
+#ä¼šå…ˆè¿‡æ»¤æŽ‰ç”±äºŽå¤šæ¬¡è®¿é—®æ•…éšœè€Œå¤„äºŽæ–­è·¯å™¨è·³é—¸çŠ¶æ€çš„æœåŠ¡ï¼Œç„¶åŽé€‰æ‹©ä¸€ä¸ªå¹¶å‘é‡æœ€å°çš„æœåŠ¡
 BestAvailableRule
 
-#Ä¬ÈÏ¹æÔò,¸´ºÏÅÐ¶ÏserverËùÔÚÇøÓòµÄÐÔÄÜºÍserverµÄ¿ÉÓÃÐÔÑ¡Ôñ·þÎñÆ÷
+#é»˜è®¤è§„åˆ™,å¤åˆåˆ¤æ–­serveræ‰€åœ¨åŒºåŸŸçš„æ€§èƒ½å’Œserverçš„å¯ç”¨æ€§é€‰æ‹©æœåŠ¡å™¨
 ZoneAvoidanceRule
 ```
 
-##### 2.6×Ô¶¨Òå¸ºÔØ¹æÔò
+##### 2.6è‡ªå®šä¹‰è´Ÿè½½è§„åˆ™
 
-> ÒÔÏÂ¾ùÔÚ¿Í»§¶Ë80ÉÏÖ´ÐÐ
+> ä»¥ä¸‹å‡åœ¨å®¢æˆ·ç«¯80ä¸Šæ‰§è¡Œ
 
-> ¹Ù·½ÎÄµµÃ÷È·¸ø³öÁË¾¯¸æ£º
+> å®˜æ–¹æ–‡æ¡£æ˜Žç¡®ç»™å‡ºäº†è­¦å‘Šï¼š
 >
-> Õâ¸ö×Ô¶¨ÒåÅäÖÃÀà²»ÄÜ·ÅÔÚ@ComponentScanËùÉ¨ÃèµÄµ±Ç°°üÏÂÒÔ¼°×Ó°üÏÂ£¬
+> è¿™ä¸ªè‡ªå®šä¹‰é…ç½®ç±»ä¸èƒ½æ”¾åœ¨@ComponentScanæ‰€æ‰«æçš„å½“å‰åŒ…ä¸‹ä»¥åŠå­åŒ…ä¸‹ï¼Œ
 >
-> ·ñÔòÎÒÃÇ×Ô¶¨ÒåµÄÕâ¸öÅäÖÃÀà¾Í»á±»ËùÓÐµÄRibbon¿Í»§¶ËËù¹²Ïí£¬Ò²¾ÍÊÇËµ
+> å¦åˆ™æˆ‘ä»¬è‡ªå®šä¹‰çš„è¿™ä¸ªé…ç½®ç±»å°±ä¼šè¢«æ‰€æœ‰çš„Ribbonå®¢æˆ·ç«¯æ‰€å…±äº«ï¼Œä¹Ÿå°±æ˜¯è¯´
 >
-> ÎÒÃÇ´ï²»µ½ÌØÊâ»¯¶¨ÖÆµÄÄ¿µÄÁË¡£
+> æˆ‘ä»¬è¾¾ä¸åˆ°ç‰¹æ®ŠåŒ–å®šåˆ¶çš„ç›®çš„äº†ã€‚
 
-###### ¼òµ¥¶¨Òå
+###### ç®€å•å®šä¹‰
 
-- Ìí¼ÓÀàMyRibbonRule
+- æ·»åŠ ç±»MyRibbonRule
 
   ```java
   @Configuration
   public class MyRibbonRule {
       @Bean
       public IRule myRule() {
-          return new RandomRule();//RibbonÄ¬ÈÏÊÇÂÖÑ¯£¬ÎÒ×Ô¶¨ÒåÎªËæ»ú
+          return new RandomRule();//Ribboné»˜è®¤æ˜¯è½®è¯¢ï¼Œæˆ‘è‡ªå®šä¹‰ä¸ºéšæœº
       }
   }
   ```
 
-- Æô¶¯Àà
+- å¯åŠ¨ç±»
 
   ```java
   @SpringBootApplication
   @EnableEurekaClient
-  //Ö»Ö¸¶¨·þÎñÉúÐ§ nameÎª·þÎñÃû configurationÎª×Ô¶¨Òå¹æÔòÀà
+  //åªæŒ‡å®šæœåŠ¡ç”Ÿæ•ˆ nameä¸ºæœåŠ¡å configurationä¸ºè‡ªå®šä¹‰è§„åˆ™ç±»
   @RibbonClient(name = "DEMO1PROVIDER1",configuration = MyRibbonRule.class) 
   
-  //ËùÓÐ·þÎñÉúÐ§
+  //æ‰€æœ‰æœåŠ¡ç”Ÿæ•ˆ
   //@RibbonClients(defaultConfiguration = MyRibbonRule.class)
   public class Demo1Consumer80Application {
   
@@ -532,21 +534,21 @@ ZoneAvoidanceRule
   }
   ```
 
-###### ×Ô¶¨Òå¹æÔòËã·¨
+###### è‡ªå®šä¹‰è§„åˆ™ç®—æ³•
 
-> ÐèÒª¼Ì³Ð AbstractLoadBalancerRule ²¢ÊµÏÖ·½·¨
+> éœ€è¦ç»§æ‰¿ AbstractLoadBalancerRule å¹¶å®žçŽ°æ–¹æ³•
 
-- Ìí¼ÓÀàMyRule1
+- æ·»åŠ ç±»MyRule1
 
   ```JAVA
   /**
    * author: jz
    * Time: 2020/3/17 23:12
-   * Ã¿¸ö·þÎñ·ÃÎÊ4´Î£¬ÂÖÑ¯ÏÂÒ»¸ö·þÎñ
+   * æ¯ä¸ªæœåŠ¡è®¿é—®4æ¬¡ï¼Œè½®è¯¢ä¸‹ä¸€ä¸ªæœåŠ¡
    **/
   public class MyRule1 extends AbstractLoadBalancerRule {
-      private int sum = 0;    //×Ü¹²±»µ÷ÓÃµÄ´ÎÊý£¬Ä¿Ç°ÒªÇóÃ¿Ì¨±»µ÷ÓÃ3´Î
-      private int currentIndex = 0;//µ±Ç°Ìá¹©·þÎñµÄ»úÆ÷ºÅ
+      private int sum = 0;    //æ€»å…±è¢«è°ƒç”¨çš„æ¬¡æ•°ï¼Œç›®å‰è¦æ±‚æ¯å°è¢«è°ƒç”¨3æ¬¡
+      private int currentIndex = 0;//å½“å‰æä¾›æœåŠ¡çš„æœºå™¨å·
   
       public MyRule1() {
       }
@@ -597,7 +599,7 @@ ZoneAvoidanceRule
           }
       }
   
-      /*Ñ¡ÔñËã·¨*/
+      /*é€‰æ‹©ç®—æ³•*/
       public int chooseInt(int serverCount) {
           if(currentIndex>=0){
               sum++;
@@ -615,7 +617,7 @@ ZoneAvoidanceRule
   }
   ```
 
-- Ìí¼ÓÀàMyRibbonRule
+- æ·»åŠ ç±»MyRibbonRule
 
   ```JAVA
   @Configuration
@@ -627,15 +629,15 @@ ZoneAvoidanceRule
   }
   ```
 
-- Æô¶¯Àà
+- å¯åŠ¨ç±»
 
   ```JAVA
   @SpringBootApplication
   @EnableEurekaClient
-  //Ö»Ö¸¶¨·þÎñÉúÐ§ nameÎª·þÎñÃû configurationÎª×Ô¶¨Òå¹æÔòÀà
+  //åªæŒ‡å®šæœåŠ¡ç”Ÿæ•ˆ nameä¸ºæœåŠ¡å configurationä¸ºè‡ªå®šä¹‰è§„åˆ™ç±»
   @RibbonClient(name = "DEMO1PROVIDER1",configuration = MyRibbonRule.class) 
   
-  //ËùÓÐ·þÎñÉúÐ§
+  //æ‰€æœ‰æœåŠ¡ç”Ÿæ•ˆ
   //@RibbonClients(defaultConfiguration = MyRibbonRule.class)
   public class Demo1Consumer80Application {
   
@@ -646,27 +648,27 @@ ZoneAvoidanceRule
   }
   ```
 
-#### 3.openFeign¸ºÔØ¾ùºâ
+#### 3.openFeignè´Ÿè½½å‡è¡¡
 
-##### 3.1ÊÇÊ²Ã´£¿
+##### 3.1æ˜¯ä»€ä¹ˆï¼Ÿ
 
-> [¹ÙÍø](https://projects.spring.io/spring-cloud/spring-cloud.html#spring-cloud-feign)
+> [å®˜ç½‘](https://projects.spring.io/spring-cloud/spring-cloud.html#spring-cloud-feign)
 
-FeignÊÇÒ»¸öÉùÃ÷Ê½WebService¿Í»§¶Ë¡£Ê¹ÓÃFeignÄÜÈÃ±àÐ´Web Service¿Í»§¶Ë¸ü¼Ó¼òµ¥, ËüµÄÊ¹ÓÃ·½·¨ÊÇ¶¨ÒåÒ»¸ö½Ó¿Ú£¬È»ºóÔÚÉÏÃæÌí¼Ó×¢½â£¬Í¬Ê±Ò²Ö§³ÖJAX-RS±ê×¼µÄ×¢½â¡£FeignÒ²Ö§³Ö¿É°Î²åÊ½µÄ±àÂëÆ÷ºÍ½âÂëÆ÷¡£Spring Cloud¶ÔFeign½øÐÐÁË·â×°£¬Ê¹ÆäÖ§³ÖÁËSpring MVC±ê×¼×¢½âºÍHttpMessageConverters¡£Feign¿ÉÒÔÓëEurekaºÍRibbon×éºÏÊ¹ÓÃÒÔÖ§³Ö¸ºÔØ¾ùºâ¡£
+Feignæ˜¯ä¸€ä¸ªå£°æ˜Žå¼WebServiceå®¢æˆ·ç«¯ã€‚ä½¿ç”¨Feignèƒ½è®©ç¼–å†™Web Serviceå®¢æˆ·ç«¯æ›´åŠ ç®€å•, å®ƒçš„ä½¿ç”¨æ–¹æ³•æ˜¯å®šä¹‰ä¸€ä¸ªæŽ¥å£ï¼Œç„¶åŽåœ¨ä¸Šé¢æ·»åŠ æ³¨è§£ï¼ŒåŒæ—¶ä¹Ÿæ”¯æŒJAX-RSæ ‡å‡†çš„æ³¨è§£ã€‚Feignä¹Ÿæ”¯æŒå¯æ‹”æ’å¼çš„ç¼–ç å™¨å’Œè§£ç å™¨ã€‚Spring Cloudå¯¹Feignè¿›è¡Œäº†å°è£…ï¼Œä½¿å…¶æ”¯æŒäº†Spring MVCæ ‡å‡†æ³¨è§£å’ŒHttpMessageConvertersã€‚Feignå¯ä»¥ä¸ŽEurekaå’ŒRibbonç»„åˆä½¿ç”¨ä»¥æ”¯æŒè´Ÿè½½å‡è¡¡ã€‚
 
-FeignÊÇÒ»¸öÉùÃ÷Ê½µÄWeb·þÎñ¿Í»§¶Ë£¬Ê¹µÃ±àÐ´Web·þÎñ¿Í»§¶Ë±äµÃ·Ç³£ÈÝÒ×£¬Ö»ÐèÒª´´½¨Ò»¸ö½Ó¿Ú£¬È»ºóÔÚÉÏÃæÌí¼Ó×¢½â¼´¿É¡£
+Feignæ˜¯ä¸€ä¸ªå£°æ˜Žå¼çš„WebæœåŠ¡å®¢æˆ·ç«¯ï¼Œä½¿å¾—ç¼–å†™WebæœåŠ¡å®¢æˆ·ç«¯å˜å¾—éžå¸¸å®¹æ˜“ï¼Œåªéœ€è¦åˆ›å»ºä¸€ä¸ªæŽ¥å£ï¼Œç„¶åŽåœ¨ä¸Šé¢æ·»åŠ æ³¨è§£å³å¯ã€‚
 
-##### 3.2ÄÜ¸ÉÊ²Ã´
+##### 3.2èƒ½å¹²ä»€ä¹ˆ
 
-FeignÖ¼ÔÚÊ¹±àÐ´Java Http¿Í»§¶Ë±äµÃ¸üÈÝÒ×¡£
+Feignæ—¨åœ¨ä½¿ç¼–å†™Java Httpå®¢æˆ·ç«¯å˜å¾—æ›´å®¹æ˜“ã€‚
 
-Ç°ÃæÔÚÊ¹ÓÃRibbon+RestTemplateÊ±£¬ÀûÓÃRestTemplate¶ÔhttpÇëÇóµÄ·â×°´¦Àí£¬ÐÎ³ÉÁËÒ»Ì×Ä£°æ»¯µÄµ÷ÓÃ·½·¨¡£µ«ÊÇÔÚÊµ¼Ê¿ª·¢ÖÐ£¬ÓÉÓÚ¶Ô·þÎñÒÀÀµµÄµ÷ÓÃ¿ÉÄÜ²»Ö¹Ò»´¦£¬ÍùÍùÒ»¸ö½Ó¿Ú»á±»¶à´¦µ÷ÓÃ£¬ËùÒÔÍ¨³£¶¼»áÕë¶ÔÃ¿¸öÎ¢·þÎñ×ÔÐÐ·â×°Ò»Ð©¿Í»§¶ËÀàÀ´°ü×°ÕâÐ©ÒÀÀµ·þÎñµÄµ÷ÓÃ¡£ËùÒÔ£¬FeignÔÚ´Ë»ù´¡ÉÏ×öÁË½øÒ»²½·â×°£¬ÓÉËûÀ´°ïÖúÎÒÃÇ¶¨ÒåºÍÊµÏÖÒÀÀµ·þÎñ½Ó¿ÚµÄ¶¨Òå¡£ÔÚFeignµÄÊµÏÖÏÂ£¬ÎÒÃÇÖ»Ðè´´½¨Ò»¸ö½Ó¿Ú²¢Ê¹ÓÃ×¢½âµÄ·½Ê½À´ÅäÖÃËü(ÒÔÇ°ÊÇDao½Ó¿ÚÉÏÃæ±ê×¢Mapper×¢½â,ÏÖÔÚÊÇÒ»¸öÎ¢·þÎñ½Ó¿ÚÉÏÃæ±ê×¢Ò»¸öFeign×¢½â¼´¿É)£¬¼´¿ÉÍê³É¶Ô·þÎñÌá¹©·½µÄ½Ó¿Ú°ó¶¨£¬¼ò»¯ÁËÊ¹ÓÃSpring cloud RibbonÊ±£¬×Ô¶¯·â×°·þÎñµ÷ÓÃ¿Í»§¶ËµÄ¿ª·¢Á¿¡£
+å‰é¢åœ¨ä½¿ç”¨Ribbon+RestTemplateæ—¶ï¼Œåˆ©ç”¨RestTemplateå¯¹httpè¯·æ±‚çš„å°è£…å¤„ç†ï¼Œå½¢æˆäº†ä¸€å¥—æ¨¡ç‰ˆåŒ–çš„è°ƒç”¨æ–¹æ³•ã€‚ä½†æ˜¯åœ¨å®žé™…å¼€å‘ä¸­ï¼Œç”±äºŽå¯¹æœåŠ¡ä¾èµ–çš„è°ƒç”¨å¯èƒ½ä¸æ­¢ä¸€å¤„ï¼Œå¾€å¾€ä¸€ä¸ªæŽ¥å£ä¼šè¢«å¤šå¤„è°ƒç”¨ï¼Œæ‰€ä»¥é€šå¸¸éƒ½ä¼šé’ˆå¯¹æ¯ä¸ªå¾®æœåŠ¡è‡ªè¡Œå°è£…ä¸€äº›å®¢æˆ·ç«¯ç±»æ¥åŒ…è£…è¿™äº›ä¾èµ–æœåŠ¡çš„è°ƒç”¨ã€‚æ‰€ä»¥ï¼ŒFeignåœ¨æ­¤åŸºç¡€ä¸Šåšäº†è¿›ä¸€æ­¥å°è£…ï¼Œç”±ä»–æ¥å¸®åŠ©æˆ‘ä»¬å®šä¹‰å’Œå®žçŽ°ä¾èµ–æœåŠ¡æŽ¥å£çš„å®šä¹‰ã€‚åœ¨Feignçš„å®žçŽ°ä¸‹ï¼Œæˆ‘ä»¬åªéœ€åˆ›å»ºä¸€ä¸ªæŽ¥å£å¹¶ä½¿ç”¨æ³¨è§£çš„æ–¹å¼æ¥é…ç½®å®ƒ(ä»¥å‰æ˜¯DaoæŽ¥å£ä¸Šé¢æ ‡æ³¨Mapperæ³¨è§£,çŽ°åœ¨æ˜¯ä¸€ä¸ªå¾®æœåŠ¡æŽ¥å£ä¸Šé¢æ ‡æ³¨ä¸€ä¸ªFeignæ³¨è§£å³å¯)ï¼Œå³å¯å®Œæˆå¯¹æœåŠ¡æä¾›æ–¹çš„æŽ¥å£ç»‘å®šï¼Œç®€åŒ–äº†ä½¿ç”¨Spring cloud Ribbonæ—¶ï¼Œè‡ªåŠ¨å°è£…æœåŠ¡è°ƒç”¨å®¢æˆ·ç«¯çš„å¼€å‘é‡ã€‚
 
-**Feign¼¯³ÉÁËRibbon**
+**Feigné›†æˆäº†Ribbon**
 
-ÀûÓÃRibbonÎ¬»¤ÁËMicroServiceCloud-DeptµÄ·þÎñÁÐ±íÐÅÏ¢£¬²¢ÇÒÍ¨¹ýÂÖÑ¯ÊµÏÖÁË¿Í»§¶ËµÄ¸ºÔØ¾ùºâ¡£¶øÓëRibbon²»Í¬µÄÊÇ£¬Í¨¹ýfeignÖ»ÐèÒª¶¨Òå·þÎñ°ó¶¨½Ó¿ÚÇÒÒÔÉùÃ÷Ê½µÄ·½·¨£¬ÓÅÑÅ¶ø¼òµ¥µÄÊµÏÖÁË·þÎñµ÷ÓÃ
+åˆ©ç”¨Ribbonç»´æŠ¤äº†MicroServiceCloud-Deptçš„æœåŠ¡åˆ—è¡¨ä¿¡æ¯ï¼Œå¹¶ä¸”é€šè¿‡è½®è¯¢å®žçŽ°äº†å®¢æˆ·ç«¯çš„è´Ÿè½½å‡è¡¡ã€‚è€Œä¸ŽRibbonä¸åŒçš„æ˜¯ï¼Œé€šè¿‡feignåªéœ€è¦å®šä¹‰æœåŠ¡ç»‘å®šæŽ¥å£ä¸”ä»¥å£°æ˜Žå¼çš„æ–¹æ³•ï¼Œä¼˜é›…è€Œç®€å•çš„å®žçŽ°äº†æœåŠ¡è°ƒç”¨
 
-##### 3.2ÅäÖÃÊ¹ÓÃ
+##### 3.2é…ç½®ä½¿ç”¨
 
 - pom
 
@@ -707,16 +709,16 @@ FeignÖ¼ÔÚÊ¹±àÐ´Java Http¿Í»§¶Ë±äµÃ¸üÈÝÒ×¡£
   
   ```
 
-- ´´½¨½Ó¿Ú
+- åˆ›å»ºæŽ¥å£
 
   ```java
   /**
    * author: jz
    * Time: 2020/3/18 13:30
    **/
-  //×¢ÒâÕâÀï°ó¶¨µÄÊÇÎ¢·þÎñÊµÀý
-  //@RequestMapping("/user") ×¢ÒâÇ°Ãæ´øÁ´½Ó²»ÄÜÕâÃ´Ð´£¬Ó¦Ð´ path = "/user"
-  @FeignClient(value = "DEMO1PROVIDER1"£¬path = "/user") //ÇëÇóµÄ·þÎñÃû
+  //æ³¨æ„è¿™é‡Œç»‘å®šçš„æ˜¯å¾®æœåŠ¡å®žä¾‹
+  //@RequestMapping("/user") æ³¨æ„å‰é¢å¸¦é“¾æŽ¥ä¸èƒ½è¿™ä¹ˆå†™ï¼Œåº”å†™ path = "/user"
+  @FeignClient(value = "DEMO1PROVIDER1"ï¼Œpath = "/user") //è¯·æ±‚çš„æœåŠ¡å
   public interface UserClientService {
   
       @PostMapping("/")
@@ -737,7 +739,7 @@ FeignÖ¼ÔÚÊ¹±àÐ´Java Http¿Í»§¶Ë±äµÃ¸üÈÝÒ×¡£
       @GetMapping("/all")
       public List<User> findAll();
   
-      /*·þÎñ·¢ÏÖ*/
+      /*æœåŠ¡å‘çŽ°*/
       @GetMapping("/discovery")
       public Object discovery();
   }
@@ -750,46 +752,46 @@ FeignÖ¼ÔÚÊ¹±àÐ´Java Http¿Í»§¶Ë±äµÃ¸üÈÝÒ×¡£
       UserClientService userClientService;
   ```
 
-- Æô¶¯Àà
+- å¯åŠ¨ç±»
 
   ```java
   @EnableEurekaClient
   @EnableDiscoveryClient
-  //É¨ÃèµÄÊÇ±ê¼ÇÓÐ@FeignClient(value = "xx")µÄÀà°ü
-  //Èç¹ûÊÇÍ¬Ò»¸ö·þÎñÄ£¿éÕâ¿ÉÒÔÊ¡ÂÔ²ÎÊý
+  //æ‰«æçš„æ˜¯æ ‡è®°æœ‰@FeignClient(value = "xx")çš„ç±»åŒ…
+  //å¦‚æžœæ˜¯åŒä¸€ä¸ªæœåŠ¡æ¨¡å—è¿™å¯ä»¥çœç•¥å‚æ•°
   @EnableFeignClients(basePackages = {"demo1_api.FeignClientService"})
   ```
 
-##### 3.3×Ü½á
+##### 3.3æ€»ç»“
 
- FeignÍ¨¹ý½Ó¿ÚµÄ·½·¨µ÷ÓÃRest·þÎñ£¨Ö®Ç°ÊÇRibbon+RestTemplate£©£¬
+ Feigné€šè¿‡æŽ¥å£çš„æ–¹æ³•è°ƒç”¨RestæœåŠ¡ï¼ˆä¹‹å‰æ˜¯Ribbon+RestTemplateï¼‰ï¼Œ
 
-¸ÃÇëÇó·¢ËÍ¸øEureka·þÎñÆ÷£¨http://DEMO1PROVIDER1/user/all£©,
+è¯¥è¯·æ±‚å‘é€ç»™EurekaæœåŠ¡å™¨ï¼ˆhttp://DEMO1PROVIDER1/user/allï¼‰,
 
-Í¨¹ýFeignÖ±½ÓÕÒµ½·þÎñ½Ó¿Ú£¬ÓÉÓÚÔÚ½øÐÐ·þÎñµ÷ÓÃµÄÊ±ºòÈÚºÏÁËRibbon¼¼Êõ£¬ËùÒÔÒ²Ö§³Ö¸ºÔØ¾ùºâ×÷ÓÃ¡£
+é€šè¿‡Feignç›´æŽ¥æ‰¾åˆ°æœåŠ¡æŽ¥å£ï¼Œç”±äºŽåœ¨è¿›è¡ŒæœåŠ¡è°ƒç”¨çš„æ—¶å€™èžåˆäº†RibbonæŠ€æœ¯ï¼Œæ‰€ä»¥ä¹Ÿæ”¯æŒè´Ÿè½½å‡è¡¡ä½œç”¨ã€‚
 
-#### 4.Hystrix¶ÏÂ·Æ÷
+#### 4.Hystrixæ–­è·¯å™¨
 
-##### 4.1ÊÇÊ²Ã´£¿
+##### 4.1æ˜¯ä»€ä¹ˆï¼Ÿ
 
-HystrixÒ²ÊÇNetflixÌ×¼þµÄÒ»²¿·Ö
+Hystrixä¹Ÿæ˜¯Netflixå¥—ä»¶çš„ä¸€éƒ¨åˆ†
 
-HystrixÊÇÒ»¸öÓÃÓÚ´¦Àí·Ö²¼Ê½ÏµÍ³µÄÑÓ³ÙºÍÈÝ´íµÄ¿ªÔ´¿â£¬ÔÚ·Ö²¼Ê½ÏµÍ³Àï£¬Ðí¶àÒÀÀµ²»¿É±ÜÃâµÄ»áµ÷ÓÃÊ§°Ü£¬±ÈÈç³¬Ê±¡¢Òì³£µÈ£¬HystrixÄÜ¹»±£Ö¤ÔÚÒ»¸öÒÀÀµ³öÎÊÌâµÄÇé¿öÏÂ£¬²»»áµ¼ÖÂÕûÌå·þÎñÊ§°Ü£¬±ÜÃâ¼¶Áª¹ÊÕÏ£¬ÒÔÌá¸ß·Ö²¼Ê½ÏµÍ³µÄµ¯ÐÔ¡£
+Hystrixæ˜¯ä¸€ä¸ªç”¨äºŽå¤„ç†åˆ†å¸ƒå¼ç³»ç»Ÿçš„å»¶è¿Ÿå’Œå®¹é”™çš„å¼€æºåº“ï¼Œåœ¨åˆ†å¸ƒå¼ç³»ç»Ÿé‡Œï¼Œè®¸å¤šä¾èµ–ä¸å¯é¿å…çš„ä¼šè°ƒç”¨å¤±è´¥ï¼Œæ¯”å¦‚è¶…æ—¶ã€å¼‚å¸¸ç­‰ï¼ŒHystrixèƒ½å¤Ÿä¿è¯åœ¨ä¸€ä¸ªä¾èµ–å‡ºé—®é¢˜çš„æƒ…å†µä¸‹ï¼Œä¸ä¼šå¯¼è‡´æ•´ä½“æœåŠ¡å¤±è´¥ï¼Œé¿å…çº§è”æ•…éšœï¼Œä»¥æé«˜åˆ†å¸ƒå¼ç³»ç»Ÿçš„å¼¹æ€§ã€‚
 
-¡°¶ÏÂ·Æ÷¡±±¾ÉíÊÇÒ»ÖÖ¿ª¹Ø×°ÖÃ£¬µ±Ä³¸ö·þÎñµ¥Ôª·¢Éú¹ÊÕÏÖ®ºó£¬Í¨¹ý¶ÏÂ·Æ÷µÄ¹ÊÕÏ¼à¿Ø£¨ÀàËÆÈÛ¶Ï±£ÏÕË¿£©£¬Ïòµ÷ÓÃ·½·µ»ØÒ»¸ö·ûºÏÔ¤ÆÚµÄ¡¢¿É´¦ÀíµÄ±¸Ñ¡ÏìÓ¦£¨FallBack£©£¬¶ø²»ÊÇ³¤Ê±¼äµÄµÈ´ý»òÕßÅ×³öµ÷ÓÃ·½ÎÞ·¨´¦ÀíµÄÒì³££¬ÕâÑù¾Í±£Ö¤ÁË·þÎñµ÷ÓÃ·½µÄÏß³Ì²»»á±»³¤Ê±¼ä¡¢²»±ØÒªµØÕ¼ÓÃ£¬´Ó¶ø±ÜÃâÁË¹ÊÕÏÔÚ·Ö²¼Ê½ÏµÍ³ÖÐµÄÂûÑÓ£¬ÄËÖÁÑ©±À¡£
+â€œæ–­è·¯å™¨â€æœ¬èº«æ˜¯ä¸€ç§å¼€å…³è£…ç½®ï¼Œå½“æŸä¸ªæœåŠ¡å•å…ƒå‘ç”Ÿæ•…éšœä¹‹åŽï¼Œé€šè¿‡æ–­è·¯å™¨çš„æ•…éšœç›‘æŽ§ï¼ˆç±»ä¼¼ç†”æ–­ä¿é™©ä¸ï¼‰ï¼Œå‘è°ƒç”¨æ–¹è¿”å›žä¸€ä¸ªç¬¦åˆé¢„æœŸçš„ã€å¯å¤„ç†çš„å¤‡é€‰å“åº”ï¼ˆFallBackï¼‰ï¼Œè€Œä¸æ˜¯é•¿æ—¶é—´çš„ç­‰å¾…æˆ–è€…æŠ›å‡ºè°ƒç”¨æ–¹æ— æ³•å¤„ç†çš„å¼‚å¸¸ï¼Œè¿™æ ·å°±ä¿è¯äº†æœåŠ¡è°ƒç”¨æ–¹çš„çº¿ç¨‹ä¸ä¼šè¢«é•¿æ—¶é—´ã€ä¸å¿…è¦åœ°å ç”¨ï¼Œä»Žè€Œé¿å…äº†æ•…éšœåœ¨åˆ†å¸ƒå¼ç³»ç»Ÿä¸­çš„è”“å»¶ï¼Œä¹ƒè‡³é›ªå´©ã€‚
 
 <img src="https://cdn.jsdelivr.net/gh/athink8/cdn@master/imgs/arctle/HystrixFallback.png" alt="image" style="zoom:80%;" />
 
 ---
 
-##### 4.2ÄÜ¸ÉÂï
+##### 4.2èƒ½å¹²å˜›
 
-- ·þÎñÈÛ¶Ï
-- ·þÎñ½µ¼¶
-- ·þÎñÏÞÁ÷
-- ½Ó½üÊµÊ±µÄ¼à¿Ø
+- æœåŠ¡ç†”æ–­
+- æœåŠ¡é™çº§
+- æœåŠ¡é™æµ
+- æŽ¥è¿‘å®žæ—¶çš„ç›‘æŽ§
 
-##### 4.3·þÎñÈÛ¶Ï
+##### 4.3æœåŠ¡ç†”æ–­
 
 - pom
 
@@ -810,81 +812,81 @@ HystrixÊÇÒ»¸öÓÃÓÚ´¦Àí·Ö²¼Ê½ÏµÍ³µÄÑÓ³ÙºÍÈÝ´íµÄ¿ªÔ´¿â£¬ÔÚ·Ö²¼Ê½ÏµÍ³Àï£¬Ðí¶àÒÀÀµ²»¿
           return userService.findById(id);
       }
   
-      /*·þÎñÈÛ¶Ï·µ»Ø·½·¨*/
+      /*æœåŠ¡ç†”æ–­è¿”å›žæ–¹æ³•*/
       public User fallbackMethod(@PathVariable("id") Integer id) {
-          return new User().setName("·þÎñ´íÎó£¡");
+          return new User().setName("æœåŠ¡é”™è¯¯ï¼");
       }
   ```
 
-  > ×¢Òâ·þÎñÈÛ¶Ï·µ»Ø·½·¨±ØÐëºÍ¼à¿ØµÄ·½·¨µÄ²ÎÊýºÍ·µ»ØÖµÒ»ÖÂ
+  > æ³¨æ„æœåŠ¡ç†”æ–­è¿”å›žæ–¹æ³•å¿…é¡»å’Œç›‘æŽ§çš„æ–¹æ³•çš„å‚æ•°å’Œè¿”å›žå€¼ä¸€è‡´
   >
-  > ·ñÔò»áÅ×³ö `fallback method wasn't found: defaultFallback`
+  > å¦åˆ™ä¼šæŠ›å‡º `fallback method wasn't found: defaultFallback`
 
 - yml
 
   ```yaml
   hystrix: 
     command: 
-      HelloClient	#toHello()://Õâ¸ö²»ÅäÄ¬ÈÏÊÇÈ«¾Ö
+      HelloClient	#toHello()://è¿™ä¸ªä¸é…é»˜è®¤æ˜¯å…¨å±€
         execution: 
           isolation:
             thread:
-              timeoutInMilliseconds: 500 #Ïß³Ì³¬Ê±,µ÷ÓÃFallback·½·¨
+              timeoutInMilliseconds: 500 #çº¿ç¨‹è¶…æ—¶,è°ƒç”¨Fallbackæ–¹æ³•
         circuitBreaker:
-          requestVolumeThreshold: 3  #10ÃëÄÚ³öÏÖ3¸öÒÔÉÏÇëÇó(ÒÑÁÙ½ü·§Öµ),²¢ÇÒ³ö´íÂÊÔÚ50%ÒÔÉÏ,¿ªÆô¶ÏÂ·Æ÷.
+          requestVolumeThreshold: 3  #10ç§’å†…å‡ºçŽ°3ä¸ªä»¥ä¸Šè¯·æ±‚(å·²ä¸´è¿‘é˜€å€¼),å¹¶ä¸”å‡ºé”™çŽ‡åœ¨50%ä»¥ä¸Š,å¼€å¯æ–­è·¯å™¨.
   ```
 
   
 
-- Æô¶¯Àà
+- å¯åŠ¨ç±»
 
   ```java
-  @EnableCircuitBreaker //¿ªÆô·þÎñÈÛµã
+  @EnableCircuitBreaker //å¼€å¯æœåŠ¡ç†”ç‚¹
   ```
 
 ---
 
-¸½Â¼£º@HystrixCommand**
+é™„å½•ï¼š@HystrixCommand**
 
 ```java
      public @interface HystrixCommand {
 
-            // HystrixCommand ÃüÁîËùÊôµÄ×éµÄÃû³Æ£ºÄ¬ÈÏ×¢½â·½·¨ÀàµÄÃû³Æ
+            // HystrixCommand å‘½ä»¤æ‰€å±žçš„ç»„çš„åç§°ï¼šé»˜è®¤æ³¨è§£æ–¹æ³•ç±»çš„åç§°
             String groupKey() default "";
 
-            // HystrixCommand ÃüÁîµÄkeyÖµ£¬Ä¬ÈÏÖµÎª×¢½â·½·¨µÄÃû³Æ
+            // HystrixCommand å‘½ä»¤çš„keyå€¼ï¼Œé»˜è®¤å€¼ä¸ºæ³¨è§£æ–¹æ³•çš„åç§°
             String commandKey() default "";
 
-            // Ïß³Ì³ØÃû³Æ£¬Ä¬ÈÏ¶¨ÒåÎªgroupKey
+            // çº¿ç¨‹æ± åç§°ï¼Œé»˜è®¤å®šä¹‰ä¸ºgroupKey
             String threadPoolKey() default "";
-            // ¶¨Òå»ØÍË·½·¨µÄÃû³Æ, ´Ë·½·¨±ØÐëºÍhystrixµÄÖ´ÐÐ·½·¨ÔÚÏàÍ¬ÀàÖÐ
+            // å®šä¹‰å›žé€€æ–¹æ³•çš„åç§°, æ­¤æ–¹æ³•å¿…é¡»å’Œhystrixçš„æ‰§è¡Œæ–¹æ³•åœ¨ç›¸åŒç±»ä¸­
             String fallbackMethod() default "";
-            // ÅäÖÃhystrixÃüÁîµÄ²ÎÊý
+            // é…ç½®hystrixå‘½ä»¤çš„å‚æ•°
             HystrixProperty[] commandProperties() default {};
-            // ÅäÖÃhystrixÒÀÀµµÄÏß³Ì³ØµÄ²ÎÊý
+            // é…ç½®hystrixä¾èµ–çš„çº¿ç¨‹æ± çš„å‚æ•°
              HystrixProperty[] threadPoolProperties() default {};
 
-            // Èç¹ûhystrix·½·¨Å×³öµÄÒì³£°üÀ¨RUNTIME_EXCEPTION£¬Ôò»á±»·â×°HystrixRuntimeExceptionÒì³£¡£ÎÒÃÇÒ²¿ÉÒÔÍ¨¹ý´Ë·½·¨¶¨ÒåÄÄÐ©ÐèÒªºöÂÔµÄÒì³£
+            // å¦‚æžœhystrixæ–¹æ³•æŠ›å‡ºçš„å¼‚å¸¸åŒ…æ‹¬RUNTIME_EXCEPTIONï¼Œåˆ™ä¼šè¢«å°è£…HystrixRuntimeExceptionå¼‚å¸¸ã€‚æˆ‘ä»¬ä¹Ÿå¯ä»¥é€šè¿‡æ­¤æ–¹æ³•å®šä¹‰å“ªäº›éœ€è¦å¿½ç•¥çš„å¼‚å¸¸
             Class<? extends Throwable>[] ignoreExceptions() default {};
 
-            // ¶¨ÒåÖ´ÐÐhystrix observableµÄÃüÁîµÄÄ£Ê½£¬ÀàÐÍÏêÏ¸¼ûObservableExecutionMode
+            // å®šä¹‰æ‰§è¡Œhystrix observableçš„å‘½ä»¤çš„æ¨¡å¼ï¼Œç±»åž‹è¯¦ç»†è§ObservableExecutionMode
             ObservableExecutionMode observableExecutionMode() default ObservableExecutionMode.EAGER;
 
-            // Èç¹ûhystrix·½·¨Å×³öµÄÒì³£°üÀ¨RUNTIME_EXCEPTION£¬Ôò»á±»·â×°HystrixRuntimeExceptionÒì³£¡£´Ë·½·¨¶¨ÒåÐèÒªÅ×³öµÄÒì³£
+            // å¦‚æžœhystrixæ–¹æ³•æŠ›å‡ºçš„å¼‚å¸¸åŒ…æ‹¬RUNTIME_EXCEPTIONï¼Œåˆ™ä¼šè¢«å°è£…HystrixRuntimeExceptionå¼‚å¸¸ã€‚æ­¤æ–¹æ³•å®šä¹‰éœ€è¦æŠ›å‡ºçš„å¼‚å¸¸
             HystrixException[] raiseHystrixExceptions() default {};
 
-            // ¶¨Òå»Øµ÷·½·¨£ºµ«ÊÇdefaultFallback²»ÄÜ´«Èë²ÎÊý£¬·µ»Ø²ÎÊýºÍhystrixµÄÃüÁî¼æÈÝ
+            // å®šä¹‰å›žè°ƒæ–¹æ³•ï¼šä½†æ˜¯defaultFallbackä¸èƒ½ä¼ å…¥å‚æ•°ï¼Œè¿”å›žå‚æ•°å’Œhystrixçš„å‘½ä»¤å…¼å®¹
             String defaultFallback() default "";
         }
 ```
 
 
 
-##### 4.4·þÎñ½µ¼¶(ÅäºÏFeign)
+##### 4.4æœåŠ¡é™çº§(é…åˆFeign)
 
-> @EnableFeignClientsÖÐÒÑ¾­Ä¬ÈÏ´ò¿ªÁË¶ÏÂ·Æ÷¹¦ÄÜ£¬ËùÒÔÕâÀïµÄÆô¶¯ÀàÉÏ²»ÐèÒªÔÙ¼Ó@EnableCircuitBreaker×¢½â
+> @EnableFeignClientsä¸­å·²ç»é»˜è®¤æ‰“å¼€äº†æ–­è·¯å™¨åŠŸèƒ½ï¼Œæ‰€ä»¥è¿™é‡Œçš„å¯åŠ¨ç±»ä¸Šä¸éœ€è¦å†åŠ @EnableCircuitBreakeræ³¨è§£
 >
-> Ö»ÐèÒªÔÚ@FeignClientÖÐÎªfallback²ÎÊýÖ¸¶¨fallback·½·¨
+> åªéœ€è¦åœ¨@FeignClientä¸­ä¸ºfallbackå‚æ•°æŒ‡å®šfallbackæ–¹æ³•
 
 - pom
 
@@ -919,7 +921,7 @@ HystrixÊÇÒ»¸öÓÃÓÚ´¦Àí·Ö²¼Ê½ÏµÍ³µÄÑÓ³ÙºÍÈÝ´íµÄ¿ªÔ´¿â£¬ÔÚ·Ö²¼Ê½ÏµÍ³Àï£¬Ðí¶àÒÀÀµ²»¿
 - yml
 
   ```yaml
-  #¿ªÆôfeign¶ÔhystrixµÄÖ§³Ö
+  #å¼€å¯feignå¯¹hystrixçš„æ”¯æŒ
   feign:
     hystrix:
       enabled: true
@@ -928,26 +930,26 @@ HystrixÊÇÒ»¸öÓÃÓÚ´¦Àí·Ö²¼Ê½ÏµÍ³µÄÑÓ³ÙºÍÈÝ´íµÄ¿ªÔ´¿â£¬ÔÚ·Ö²¼Ê½ÏµÍ³Àï£¬Ðí¶àÒÀÀµ²»¿
 - service
 
   ```java
-  //½Ó¿ÚÀàÐÍ1
+  //æŽ¥å£ç±»åž‹1
   @FeignClient(value = "DEMO1PROVIDER1",path = "/user",fallback = Hystrixfallback.class)
   
-  //½Ó¿ÚÀàÐÍ2
+  //æŽ¥å£ç±»åž‹2
   //@FeignClient(value = "DEMO1PROVIDER1",path = "/user",fallbackFactory = Hystrixfallback.class)
   
-  //×¢ÒâÕâÀï°ó¶¨µÄÊÇÎ¢·þÎñÊµÀý
+  //æ³¨æ„è¿™é‡Œç»‘å®šçš„æ˜¯å¾®æœåŠ¡å®žä¾‹
   public interface UserClientService {
   ```
 
-- ´´½¨½Ó¿ÚHystrixfallback
+- åˆ›å»ºæŽ¥å£Hystrixfallback
 
-  - µÚÒ»ÖÖ£º¼Ì³Ð·þÎñµÄ½Ó¿Ú
+  - ç¬¬ä¸€ç§ï¼šç»§æ‰¿æœåŠ¡çš„æŽ¥å£
 
     ```java
-    @Component //±ØÐë  Ìí¼Óµ½ÈÝÆ÷
+    @Component //å¿…é¡»  æ·»åŠ åˆ°å®¹å™¨
     public class Hystrixfallback implements UserClientService {
     ```
 
-  - µÚ¶þÖÖ£º¼Ì³ÐFallbackFactory<xx>µÄ½Ó¿Ú
+  - ç¬¬äºŒç§ï¼šç»§æ‰¿FallbackFactory<xx>çš„æŽ¥å£
 
     ```java
     @Component
@@ -960,9 +962,9 @@ HystrixÊÇÒ»¸öÓÃÓÚ´¦Àí·Ö²¼Ê½ÏµÍ³µÄÑÓ³ÙºÍÈÝ´íµÄ¿ªÔ´¿â£¬ÔÚ·Ö²¼Ê½ÏµÍ³Àï£¬Ðí¶àÒÀÀµ²»¿
      }
     ```
 
-##### 4.5·þÎñ¼à¿ØHystrix Dashboard
+##### 4.5æœåŠ¡ç›‘æŽ§Hystrix Dashboard
 
-###### - ·þÎñ·½
+###### - æœåŠ¡æ–¹
 
 - pom
 
@@ -979,9 +981,9 @@ HystrixÊÇÒ»¸öÓÃÓÚ´¦Àí·Ö²¼Ê½ÏµÍ³µÄÑÓ³ÙºÍÈÝ´íµÄ¿ªÔ´¿â£¬ÔÚ·Ö²¼Ê½ÏµÍ³Àï£¬Ðí¶àÒÀÀµ²»¿
 
 - controller
 
-  > ×¢Òâ  ±ØÐëÌí¼ÓÈÛ¶Ï ²ÅÄÜ±»¼à¿Ø 
+  > æ³¨æ„  å¿…é¡»æ·»åŠ ç†”æ–­ æ‰èƒ½è¢«ç›‘æŽ§ 
   >
-  > ÈÛ¶Ï·½·¨Ì«¶àÊ±ºÜÂé·³ ÕâÎÊÌâ »¹Ã»Àí½âÈçºÎ½â¾ö?
+  > ç†”æ–­æ–¹æ³•å¤ªå¤šæ—¶å¾ˆéº»çƒ¦ è¿™é—®é¢˜ è¿˜æ²¡ç†è§£å¦‚ä½•è§£å†³?
 
   ```java
       @HystrixCommand(fallbackMethod = "fallbackAll")
@@ -992,24 +994,24 @@ HystrixÊÇÒ»¸öÓÃÓÚ´¦Àí·Ö²¼Ê½ÏµÍ³µÄÑÓ³ÙºÍÈÝ´íµÄ¿ªÔ´¿â£¬ÔÚ·Ö²¼Ê½ÏµÍ³Àï£¬Ðí¶àÒÀÀµ²»¿
       
       public List<User> fallbackAll() {
           List<User> users = new ArrayList<>();
-          users.add(new User().setName("LIST ºÃ·³"));
+          users.add(new User().setName("LIST å¥½çƒ¦"));
           return users;
       }
   ```
 
-- Æô¶¯Àà
+- å¯åŠ¨ç±»
 
   ```JAVA
   @EnableCircuitBreaker
   ```
 
-- ×¢Èëbean
+- æ³¨å…¥bean
 
   ```Java
   @Configuration
   public class beanConfig {
   
-      //Õâ¸öbeanÖ÷ÒªÊÇ½â¾ö/hystrix.streamÊÓÍ¼ÎÞ·¨´ò¿ªµÄÎÊÌâ£»
+      //è¿™ä¸ªbeanä¸»è¦æ˜¯è§£å†³/hystrix.streamè§†å›¾æ— æ³•æ‰“å¼€çš„é—®é¢˜ï¼›
       @Bean
       public ServletRegistrationBean getServlet() {
           HystrixMetricsStreamServlet streamServlet = new HystrixMetricsStreamServlet();
@@ -1022,7 +1024,7 @@ HystrixÊÇÒ»¸öÓÃÓÚ´¦Àí·Ö²¼Ê½ÏµÍ³µÄÑÓ³ÙºÍÈÝ´íµÄ¿ªÔ´¿â£¬ÔÚ·Ö²¼Ê½ÏµÍ³Àï£¬Ðí¶àÒÀÀµ²»¿
   }
   ```
 
-###### - DashboardÃæ°å
+###### - Dashboardé¢æ¿
 
 - pom
 
@@ -1038,54 +1040,54 @@ HystrixÊÇÒ»¸öÓÃÓÚ´¦Àí·Ö²¼Ê½ÏµÍ³µÄÑÓ³ÙºÍÈÝ´íµÄ¿ªÔ´¿â£¬ÔÚ·Ö²¼Ê½ÏµÍ³Àï£¬Ðí¶àÒÀÀµ²»¿
           </dependency>
   ```
 
-- Æô¶¯Àà
+- å¯åŠ¨ç±»
 
   ```java
   @EnableHystrixDashboard
   ```
 
-###### - Ãæ°å½âÊÍ
+###### - é¢æ¿è§£é‡Š
 
 <img src="https://cdn.jsdelivr.net/gh/athink8/cdn@master/imgs/arctle/HystrixDashboard.png" alt="image" style="zoom:67%;" />
 
-ÊµÐÄÔ²£º¹²ÓÐÁ½ÖÖº¬Òå¡£ËüÍ¨¹ýÑÕÉ«µÄ±ä»¯´ú±íÁËÊµÀýµÄ½¡¿µ³Ì¶È£¬ËüµÄ½¡¿µ¶È´ÓÂÌÉ«£¬¸ÃÊµÐÄÔ²³ýÁËÑÕÉ«µÄ±ä»¯Ö®Íâ£¬ËüµÄ´óÐ¡Ò²»á¸ù¾ÝÊµÀýµÄÇëÇóÁ÷Á¿·¢Éú±ä»¯£¬Á÷Á¿Ô½´ó¸ÃÊµÐÄÔ²¾ÍÔ½´ó¡£ËùÒÔÍ¨¹ý¸ÃÊµÐÄÔ²µÄÕ¹Ê¾£¬¾Í¿ÉÒÔÔÚ´óÁ¿µÄÊµÀýÖÐ¿ìËÙµÄ·¢ÏÖ¹ÊÕÏÊµÀýºÍ¸ßÑ¹Á¦ÊµÀý¡£
+å®žå¿ƒåœ†ï¼šå…±æœ‰ä¸¤ç§å«ä¹‰ã€‚å®ƒé€šè¿‡é¢œè‰²çš„å˜åŒ–ä»£è¡¨äº†å®žä¾‹çš„å¥åº·ç¨‹åº¦ï¼Œå®ƒçš„å¥åº·åº¦ä»Žç»¿è‰²ï¼Œè¯¥å®žå¿ƒåœ†é™¤äº†é¢œè‰²çš„å˜åŒ–ä¹‹å¤–ï¼Œå®ƒçš„å¤§å°ä¹Ÿä¼šæ ¹æ®å®žä¾‹çš„è¯·æ±‚æµé‡å‘ç”Ÿå˜åŒ–ï¼Œæµé‡è¶Šå¤§è¯¥å®žå¿ƒåœ†å°±è¶Šå¤§ã€‚æ‰€ä»¥é€šè¿‡è¯¥å®žå¿ƒåœ†çš„å±•ç¤ºï¼Œå°±å¯ä»¥åœ¨å¤§é‡çš„å®žä¾‹ä¸­å¿«é€Ÿçš„å‘çŽ°æ•…éšœå®žä¾‹å’Œé«˜åŽ‹åŠ›å®žä¾‹ã€‚
 
-ÇúÏß£ºÓÃÀ´¼ÇÂ¼x·ÖÖÓÄÚÁ÷Á¿µÄÏà¶Ô±ä»¯£¬¿ÉÒÔÍ¨¹ýËüÀ´¹Û²ìµ½Á÷Á¿µÄÉÏÉýºÍÏÂ½µÇ÷ÊÆ¡£
+æ›²çº¿ï¼šç”¨æ¥è®°å½•xåˆ†é’Ÿå†…æµé‡çš„ç›¸å¯¹å˜åŒ–ï¼Œå¯ä»¥é€šè¿‡å®ƒæ¥è§‚å¯Ÿåˆ°æµé‡çš„ä¸Šå‡å’Œä¸‹é™è¶‹åŠ¿ã€‚
 
-#### 5.zuulÂ·ÓÉÍø¹Ø
+#### 5.zuulè·¯ç”±ç½‘å…³
 
-##### 5.1ÊÇÊ²Ã´£¿
+##### 5.1æ˜¯ä»€ä¹ˆï¼Ÿ
 
-Zuul×÷ÎªÎ¢·þÎñÏµÍ³µÄÍø¹Ø×é¼þ£¬ÊÇ´ÓÉè±¸ºÍÍøÕ¾µ½NetflixÁ÷Ó¦ÓÃ³ÌÐòºó¶ËµÄËùÓÐÇëÇóµÄÇ°ÃÅ¡£×÷Îª±ßÔµ·þÎñÓ¦ÓÃ³ÌÐò£¬ZuulÖ¼ÔÚÊµÏÖ¶¯Ì¬Â·ÓÉ£¬¼à¿Ø£¬µ¯ÐÔºÍ°²È«ÐÔ¡£
+Zuulä½œä¸ºå¾®æœåŠ¡ç³»ç»Ÿçš„ç½‘å…³ç»„ä»¶ï¼Œæ˜¯ä»Žè®¾å¤‡å’Œç½‘ç«™åˆ°Netflixæµåº”ç”¨ç¨‹åºåŽç«¯çš„æ‰€æœ‰è¯·æ±‚çš„å‰é—¨ã€‚ä½œä¸ºè¾¹ç¼˜æœåŠ¡åº”ç”¨ç¨‹åºï¼ŒZuulæ—¨åœ¨å®žçŽ°åŠ¨æ€è·¯ç”±ï¼Œç›‘æŽ§ï¼Œå¼¹æ€§å’Œå®‰å…¨æ€§ã€‚
 
-> ×¢Òâ£ºZuul·þÎñ×îÖÕ»¹ÊÇ»á×¢²á½øEureka
+> æ³¨æ„ï¼šZuulæœåŠ¡æœ€ç»ˆè¿˜æ˜¯ä¼šæ³¨å†Œè¿›Eureka
 
-##### 5.2ÄÜ¸ÉÊ²Ã´?
+##### 5.2èƒ½å¹²ä»€ä¹ˆ?
 
-ZuulÖ÷Òª¹¦ÄÜÊ±API Gateway(apiÍø¹Ø)
+Zuulä¸»è¦åŠŸèƒ½æ—¶API Gateway(apiç½‘å…³)
 
-- Éí·ÝÈÏÖ¤
-- Éó²éÓë¼à¿Ø
-- Ñ¹Á¦²âÊÔ
-- ½ðË¿È¸²âÊÔ
-- ¶¯Ì¬Â·ÓÉ
-- ·þÎñÇ¨ÒÆ
-- ¸ºÔØ·ÖÅä
-- °²È«
-- ¾²Ì¬ÏìÓ¦´¦Àí
-- Ö÷¶¯/Ö÷¶¯Á÷Á¿¹ÜÀí
+- èº«ä»½è®¤è¯
+- å®¡æŸ¥ä¸Žç›‘æŽ§
+- åŽ‹åŠ›æµ‹è¯•
+- é‡‘ä¸é›€æµ‹è¯•
+- åŠ¨æ€è·¯ç”±
+- æœåŠ¡è¿ç§»
+- è´Ÿè½½åˆ†é…
+- å®‰å…¨
+- é™æ€å“åº”å¤„ç†
+- ä¸»åŠ¨/ä¸»åŠ¨æµé‡ç®¡ç†
 
-##### 5.3×÷ÓÃ
+##### 5.3ä½œç”¨
 
-`zuul`ÊÇÒ»¸öÍø¹ØºÍ¸ºÔØ¾ùºâÆ÷,ÔÚÍ¨¹ý`ribbon`»òÕß`feign`ÊµÏÖÁË¿Í»§¶Ë¸ºÔØ¾ùºâÖ®ºó,`zuul`ÔÚ·þÎñ¶ËÊµÏÖ¸ºÔØ¾ùºâ¡£`zuul`Ö§³ÖÓÃÈÎºÎ`JVM`ÓïÑÔÀ´±àÐ´¹æÔòºÍ¹ýÂËÌõ¼þ¡£
+`zuul`æ˜¯ä¸€ä¸ªç½‘å…³å’Œè´Ÿè½½å‡è¡¡å™¨,åœ¨é€šè¿‡`ribbon`æˆ–è€…`feign`å®žçŽ°äº†å®¢æˆ·ç«¯è´Ÿè½½å‡è¡¡ä¹‹åŽ,`zuul`åœ¨æœåŠ¡ç«¯å®žçŽ°è´Ÿè½½å‡è¡¡ã€‚`zuul`æ”¯æŒç”¨ä»»ä½•`JVM`è¯­è¨€æ¥ç¼–å†™è§„åˆ™å’Œè¿‡æ»¤æ¡ä»¶ã€‚
 
-·þÎñÍø¹ØÊÇÎ¢·þÎñ¼Ü¹¹ÖÐ²»¿É»òÈ±µÄ²¿·Ö¡£Í¨¹ý·þÎñÍø¹ØÍ³Ò»ÏòÍâÏµÍ³Ìá¹©`REST API`µÄ¹ý³ÌÖÐ£¬³ýÁË¾ß±¸·þÎñÂ·ÓÉ¡¢¾ùºâ¸ºÔØ¹¦ÄÜÖ®Íâ£¬Ëü»¹¾ß±¸ÁËÈ¨ÏÞ¿ØÖÆµÈ¹¦ÄÜ¡£
+æœåŠ¡ç½‘å…³æ˜¯å¾®æœåŠ¡æž¶æž„ä¸­ä¸å¯æˆ–ç¼ºçš„éƒ¨åˆ†ã€‚é€šè¿‡æœåŠ¡ç½‘å…³ç»Ÿä¸€å‘å¤–ç³»ç»Ÿæä¾›`REST API`çš„è¿‡ç¨‹ä¸­ï¼Œé™¤äº†å…·å¤‡æœåŠ¡è·¯ç”±ã€å‡è¡¡è´Ÿè½½åŠŸèƒ½ä¹‹å¤–ï¼Œå®ƒè¿˜å…·å¤‡äº†æƒé™æŽ§åˆ¶ç­‰åŠŸèƒ½ã€‚
 
- `Spring Cloud Netflix`ÖÐµÄ`Zuul`¾Íµ£ÈÎÁËÕâÑùµÄÒ»¸ö½ÇÉ«£¬ÎªÎ¢·þÎñ¼Ü¹¹Ìá¹©ÁËÇ°ÃÅ±£»¤µÄ×÷ÓÃ£¬Í¬Ê±½«È¨ÏÞ¿ØÖÆÕâÐ©½ÏÖØµÄ·ÇÒµÎñÂß¼­ÄÚÈÝÇ¨ÒÆµ½·þÎñÂ·ÓÉ²ãÃæ£¬Ê¹µÃ·þÎñ¼¯ÈºÖ÷ÌåÄÜ¹»¾ß±¸¸ü¸ßµÄ¿É¸´ÓÃÐÔºÍ¿É²âÊÔÐÔ¡£
+ `Spring Cloud Netflix`ä¸­çš„`Zuul`å°±æ‹…ä»»äº†è¿™æ ·çš„ä¸€ä¸ªè§’è‰²ï¼Œä¸ºå¾®æœåŠ¡æž¶æž„æä¾›äº†å‰é—¨ä¿æŠ¤çš„ä½œç”¨ï¼ŒåŒæ—¶å°†æƒé™æŽ§åˆ¶è¿™äº›è¾ƒé‡çš„éžä¸šåŠ¡é€»è¾‘å†…å®¹è¿ç§»åˆ°æœåŠ¡è·¯ç”±å±‚é¢ï¼Œä½¿å¾—æœåŠ¡é›†ç¾¤ä¸»ä½“èƒ½å¤Ÿå…·å¤‡æ›´é«˜çš„å¯å¤ç”¨æ€§å’Œå¯æµ‹è¯•æ€§ã€‚
 
 ![image](https://cdn.jsdelivr.net/gh/athink8/cdn@master/imgs/arctle/zuul%E4%BD%9C%E7%94%A8.jpg)
 
-##### 5.3¶¯Ì¬Â·ÓÉ
+##### 5.3åŠ¨æ€è·¯ç”±
 
 - pom
 
@@ -1121,21 +1123,21 @@ ZuulÖ÷Òª¹¦ÄÜÊ±API Gateway(apiÍø¹Ø)
     strip-prefix: false
     sensitive-headers: Access-Control-Allow-Origin
     #ignored-headers: Access-Control-Allow-Origin,H-APP-Id,APPToken
-    #strip-prefix: true #È«¾ÖÈ¥µôÇ°×º
+    #strip-prefix: true #å…¨å±€åŽ»æŽ‰å‰ç¼€
     #sensitive-headers: true
-    #MyZuulFilter: #¹ýÂËÀàÃû
-      #pre: #¹ýÂËÀàÐÍ
+    #MyZuulFilter: #è¿‡æ»¤ç±»å
+      #pre: #è¿‡æ»¤ç±»åž‹
         #disable: true
     routes:
-      demo1provider1: # ±êÊ¶ ËæÒâÐ´
-        path: /p1/**  #·ÃÎÊÂ·¾¶
-        serviceId: demo1provider1 #·þÎñÃû
+      demo1provider1: # æ ‡è¯† éšæ„å†™
+        path: /p1/**  #è®¿é—®è·¯å¾„
+        serviceId: demo1provider1 #æœåŠ¡å
       demo1_consumer_feign:
         serviceId: consumerfeign
         path: /c1/**
       a:
         path: /a/**
-        #stripPrefix: true  #µ±Ç°È¥µôÇ°×º
+        #stripPrefix: true  #å½“å‰åŽ»æŽ‰å‰ç¼€
       host:
         connect-timeout-millis: 60000
         socket-timeout-millis: 60000
@@ -1148,30 +1150,30 @@ ZuulÖ÷Òª¹¦ÄÜÊ±API Gateway(apiÍø¹Ø)
           isolation:
             thread:
               timeoutInMilliseconds: 6000
-  #¸ºÔØ¾ùºâ
+  #è´Ÿè½½å‡è¡¡
   ribbon:
     ConnectionTimeout: 500
     ReadTimeout: 2000
   ```
 
-- Ö÷Àà
+- ä¸»ç±»
 
   ```JAVA
   @EnableEurekaClient
   @EnableZuulProxy
   ```
 
-##### 5.4×Ô¶¨Òå¹ýÂËÆ÷
+##### 5.4è‡ªå®šä¹‰è¿‡æ»¤å™¨
 
-> ÔÚÊµÏÖ×Ô¶¨Òå¹ýÂËÆ÷Ê±£¬¹ýÂËÉúÐ§
+> åœ¨å®žçŽ°è‡ªå®šä¹‰è¿‡æ»¤å™¨æ—¶ï¼Œè¿‡æ»¤ç”Ÿæ•ˆ
 
-- Ìí¼ÓÀàMyZuulFilter
+- æ·»åŠ ç±»MyZuulFilter
 
   ```java
   package demo1_zuul.config;
         
   /**
-   * Íø¹ØÈÏÖ¤¹ýÂËÆ÷£¨DemoÑÝÊ¾£¬Êµ¼Ê¸ù¾Ý×ÔÉíÒµÎñ¿¼ÂÇÊµÏÖ£©
+   * ç½‘å…³è®¤è¯è¿‡æ»¤å™¨ï¼ˆDemoæ¼”ç¤ºï¼Œå®žé™…æ ¹æ®è‡ªèº«ä¸šåŠ¡è€ƒè™‘å®žçŽ°ï¼‰
    *
    * @author jz
    * @date 2020-03-20.
@@ -1180,10 +1182,10 @@ ZuulÖ÷Òª¹¦ÄÜÊ±API Gateway(apiÍø¹Ø)
   public class MyZuulFilter extends ZuulFilter {
   
       /**
-       * per£ºÂ·ÓÉÖ®Ç°£¬ÈçÊµÏÖÈÏÖ¤¡¢¼ÇÂ¼µ÷ÊÔÐÅÏ¢µÈ
-       * routing£ºÂ·ÓÉÊ±
-       * post£ºÂ·ÓÉºó£¬±ÈÈçÌí¼ÓHTTP Header
-       * error£º·¢Éú´íÎóÊ±µ÷ÓÃ
+       * perï¼šè·¯ç”±ä¹‹å‰ï¼Œå¦‚å®žçŽ°è®¤è¯ã€è®°å½•è°ƒè¯•ä¿¡æ¯ç­‰
+       * routingï¼šè·¯ç”±æ—¶
+       * postï¼šè·¯ç”±åŽï¼Œæ¯”å¦‚æ·»åŠ HTTP Header
+       * errorï¼šå‘ç”Ÿé”™è¯¯æ—¶è°ƒç”¨
        */
       @Override
       public String filterType() {
@@ -1191,7 +1193,7 @@ ZuulÖ÷Òª¹¦ÄÜÊ±API Gateway(apiÍø¹Ø)
       }
   
       /**
-       * ¹ýÂËÆ÷Ë³Ðò£¬ÀàËÆ@FilterÖÐµÄorder
+       * è¿‡æ»¤å™¨é¡ºåºï¼Œç±»ä¼¼@Filterä¸­çš„order
        */
       @Override
       public int filterOrder() {
@@ -1199,7 +1201,7 @@ ZuulÖ÷Òª¹¦ÄÜÊ±API Gateway(apiÍø¹Ø)
       }
   
       /**
-       * ÕâÀï¿ÉÒÔÐ´Âß¼­ÅÐ¶Ï£¬ÊÇ·ñÒª¹ýÂË£¬±¾ÎÄtrue,ÓÀÔ¶¹ýÂË¡£
+       * è¿™é‡Œå¯ä»¥å†™é€»è¾‘åˆ¤æ–­ï¼Œæ˜¯å¦è¦è¿‡æ»¤ï¼Œæœ¬æ–‡true,æ°¸è¿œè¿‡æ»¤ã€‚
        */
       @Override
       public boolean shouldFilter() {
@@ -1207,7 +1209,7 @@ ZuulÖ÷Òª¹¦ÄÜÊ±API Gateway(apiÍø¹Ø)
       }
   
       /**
-       * ¹ýÂËÆ÷µÄ¾ßÌåÂß¼­¡£¿ÉÓÃºÜ¸´ÔÓ£¬°üÀ¨²ésql£¬nosqlÈ¥ÅÐ¶Ï¸ÃÇëÇóµ½µ×ÓÐÃ»ÓÐÈ¨ÏÞ·ÃÎÊ¡£
+       * è¿‡æ»¤å™¨çš„å…·ä½“é€»è¾‘ã€‚å¯ç”¨å¾ˆå¤æ‚ï¼ŒåŒ…æ‹¬æŸ¥sqlï¼ŒnosqlåŽ»åˆ¤æ–­è¯¥è¯·æ±‚åˆ°åº•æœ‰æ²¡æœ‰æƒé™è®¿é—®ã€‚
        */
       @Override
       public Object run() {
@@ -1219,7 +1221,7 @@ ZuulÖ÷Òª¹¦ÄÜÊ±API Gateway(apiÍø¹Ø)
           //http://localhost:9999/p1/user/all
           System.out.println("getRequestURI "+request.getRequestURI()); //p1/user/all
           System.out.println("getServerPort "+request.getServerPort()); //9999
-          System.out.println("authToken "+request.getHeader("authToken")); //»ñÈ¡ÇëÇóÍ·ÐÅÏ¢
+          System.out.println("authToken "+request.getHeader("authToken")); //èŽ·å–è¯·æ±‚å¤´ä¿¡æ¯
   
           String token = request.getParameter("token");
           if (token == null) {
@@ -1233,11 +1235,11 @@ ZuulÖ÷Òª¹¦ÄÜÊ±API Gateway(apiÍø¹Ø)
   }
   ```
 
-##### 5.5Ìí¼ÓÈÛ¶Ï
+##### 5.5æ·»åŠ ç†”æ–­
 
-> ÔÚÊµÏÖÌí¼ÓÈÛ¶ÏÊ±£¬ÈÛ¶ÏÉúÐ§ 
+> åœ¨å®žçŽ°æ·»åŠ ç†”æ–­æ—¶ï¼Œç†”æ–­ç”Ÿæ•ˆ 
 
-- Ìí¼ÓÀàMyFallbackProvider
+- æ·»åŠ ç±»MyFallbackProvider
 
   ```java
   package demo1_zuul.config;
@@ -1246,8 +1248,8 @@ ZuulÖ÷Òª¹¦ÄÜÊ±API Gateway(apiÍø¹Ø)
   public class MyFallbackProvider implements FallbackProvider {
   
       /**
-       * getRoute·½·¨µÄ·µ»ØÖµ¾ÍÊÇÒª¼àÌýµÄ¹ÒµôµÄÎ¢·þÎñµÄÃû×Ö
-       * Èç¹ûÐèÒªËùÓÐ·þÎñ¶¼×ßÕâ¸öÈÛ¶Ï»ØÍË£¬Ôòreturn "*" »ò return null
+       * getRouteæ–¹æ³•çš„è¿”å›žå€¼å°±æ˜¯è¦ç›‘å¬çš„æŒ‚æŽ‰çš„å¾®æœåŠ¡çš„åå­—
+       * å¦‚æžœéœ€è¦æ‰€æœ‰æœåŠ¡éƒ½èµ°è¿™ä¸ªç†”æ–­å›žé€€ï¼Œåˆ™return "*" æˆ– return null
        *
        * @return
        */
@@ -1257,7 +1259,7 @@ ZuulÖ÷Òª¹¦ÄÜÊ±API Gateway(apiÍø¹Ø)
       }
   
       /**
-       * µ±·þÎñÎÞ·¨Ö´ÐÐµÄÊ±ºò£¬·µ»ØÍÐµ×ÐÅÏ¢
+       * å½“æœåŠ¡æ— æ³•æ‰§è¡Œçš„æ—¶å€™ï¼Œè¿”å›žæ‰˜åº•ä¿¡æ¯
        *
        * @param route
        * @param cause
@@ -1268,7 +1270,7 @@ ZuulÖ÷Òª¹¦ÄÜÊ±API Gateway(apiÍø¹Ø)
           return new ClientHttpResponse() {
   
               /**
-               * ClientHttpResponseµÄfallbackµÄ×´Ì¬Âë
+               * ClientHttpResponseçš„fallbackçš„çŠ¶æ€ç 
                * @return
                * @throws IOException
                */
@@ -1278,7 +1280,7 @@ ZuulÖ÷Òª¹¦ÄÜÊ±API Gateway(apiÍø¹Ø)
               }
   
               /**
-               * ClientHttpResponseµÄfallbackµÄ×´Ì¬Âë
+               * ClientHttpResponseçš„fallbackçš„çŠ¶æ€ç 
                * @return
                * @throws IOException
                */
@@ -1288,7 +1290,7 @@ ZuulÖ÷Òª¹¦ÄÜÊ±API Gateway(apiÍø¹Ø)
               }
   
               /**
-               * ClientHttpResponseµÄfallbackµÄ×´Ì¬Âë
+               * ClientHttpResponseçš„fallbackçš„çŠ¶æ€ç 
                * @return
                * @throws IOException
                */
@@ -1306,18 +1308,18 @@ ZuulÖ÷Òª¹¦ÄÜÊ±API Gateway(apiÍø¹Ø)
               }
   
               /**
-               * ÉèÖÃÏìÓ¦Ìå
+               * è®¾ç½®å“åº”ä½“
                * @return
                * @throws IOException
                */
               @Override
               public InputStream getBody() throws IOException {
-                  String content = "¸Ã·þÎñ²»¿ÉÓÃ!!";
+                  String content = "è¯¥æœåŠ¡ä¸å¯ç”¨!!";
                   return new ByteArrayInputStream(content.getBytes());
               }
   
               /**
-               * ÉèÖÃÏìÓ¦Í·ÐÅÏ¢
+               * è®¾ç½®å“åº”å¤´ä¿¡æ¯
                * @return
                */
               @Override
@@ -1333,27 +1335,27 @@ ZuulÖ÷Òª¹¦ÄÜÊ±API Gateway(apiÍø¹Ø)
   }
   ```
 
-#### 6.SpringCloud Config·Ö²¼Ê½ÅäÖÃÖÐÐÄ
+#### 6.SpringCloud Configåˆ†å¸ƒå¼é…ç½®ä¸­å¿ƒ
 
-##### 6.1ÊÇÊ²Ã´£¿
+##### 6.1æ˜¯ä»€ä¹ˆï¼Ÿ
 
-SpringCloud ConfigÎªÎ¢·þÎñ¼Ü¹¹ÖÐµÄÎ¢·þÎñÌá¹©¼¯ÖÐ»¯µÄÍâ²¿ÅäÖÃÖ§³Ö£¬ÅäÖÃ·þÎñÆ÷Îª¸÷¸ö²»Í¬Î¢·þÎñÓ¦ÓÃµÄËùÓÐ»·¾³Ìá¹©ÁËÒ»¸öÖÐÐÄ»¯µÄÍâ²¿ÅäÖÃ¡£
+SpringCloud Configä¸ºå¾®æœåŠ¡æž¶æž„ä¸­çš„å¾®æœåŠ¡æä¾›é›†ä¸­åŒ–çš„å¤–éƒ¨é…ç½®æ”¯æŒï¼Œé…ç½®æœåŠ¡å™¨ä¸ºå„ä¸ªä¸åŒå¾®æœåŠ¡åº”ç”¨çš„æ‰€æœ‰çŽ¯å¢ƒæä¾›äº†ä¸€ä¸ªä¸­å¿ƒåŒ–çš„å¤–éƒ¨é…ç½®ã€‚
 
-##### 6.2ÔõÃ´Íæ
+##### 6.2æ€Žä¹ˆçŽ©
 
-SpringCloud Config·ÖÎª·þÎñ¶ËºÍ¿Í»§¶ËÁ½²¿·Ö¡£
+SpringCloud Configåˆ†ä¸ºæœåŠ¡ç«¯å’Œå®¢æˆ·ç«¯ä¸¤éƒ¨åˆ†ã€‚
 
-·þÎñ¶ËÒ²³ÆÎª·Ö²¼Ê½ÅäÖÃÖÐÐÄ£¬ËüÊÇÒ»¸ö¶ÀÁ¢µÄÎ¢·þÎñÓ¦ÓÃ£¬ÓÃÀ´Á¬½ÓÅäÖÃ·þÎñÆ÷²¢Îª¿Í»§¶ËÌá¹©»ñÈ¡ÅäÖÃÐÅÏ¢£¬¼ÓÃÜ/½âÃÜÐÅÏ¢µÈ·ÃÎÊ½Ó¿Ú
+æœåŠ¡ç«¯ä¹Ÿç§°ä¸ºåˆ†å¸ƒå¼é…ç½®ä¸­å¿ƒï¼Œå®ƒæ˜¯ä¸€ä¸ªç‹¬ç«‹çš„å¾®æœåŠ¡åº”ç”¨ï¼Œç”¨æ¥è¿žæŽ¥é…ç½®æœåŠ¡å™¨å¹¶ä¸ºå®¢æˆ·ç«¯æä¾›èŽ·å–é…ç½®ä¿¡æ¯ï¼ŒåŠ å¯†/è§£å¯†ä¿¡æ¯ç­‰è®¿é—®æŽ¥å£
 
-¿Í»§¶ËÔòÊÇÍ¨¹ýÖ¸¶¨µÄÅäÖÃÖÐÐÄÀ´¹ÜÀíÓ¦ÓÃ×ÊÔ´£¬ÒÔ¼°ÓëÒµÎñÏà¹ØµÄÅäÖÃÄÚÈÝ£¬²¢ÔÚÆô¶¯µÄÊ±ºò´ÓÅäÖÃÖÐÐÄ»ñÈ¡ºÍ¼ÓÔØÅäÖÃÐÅÏ¢ÅäÖÃ·þÎñÆ÷Ä¬ÈÏ²ÉÓÃgitÀ´´æ´¢ÅäÖÃÐÅÏ¢£¬ÕâÑù¾ÍÓÐÖúÓÚ¶Ô»·¾³ÅäÖÃ½øÐÐ°æ±¾¹ÜÀí£¬²¢ÇÒ¿ÉÒÔÍ¨¹ýgit¿Í»§¶Ë¹¤¾ßÀ´·½±ãµÄ¹ÜÀíºÍ·ÃÎÊÅäÖÃÄÚÈÝ¡£
+å®¢æˆ·ç«¯åˆ™æ˜¯é€šè¿‡æŒ‡å®šçš„é…ç½®ä¸­å¿ƒæ¥ç®¡ç†åº”ç”¨èµ„æºï¼Œä»¥åŠä¸Žä¸šåŠ¡ç›¸å…³çš„é…ç½®å†…å®¹ï¼Œå¹¶åœ¨å¯åŠ¨çš„æ—¶å€™ä»Žé…ç½®ä¸­å¿ƒèŽ·å–å’ŒåŠ è½½é…ç½®ä¿¡æ¯é…ç½®æœåŠ¡å™¨é»˜è®¤é‡‡ç”¨gitæ¥å­˜å‚¨é…ç½®ä¿¡æ¯ï¼Œè¿™æ ·å°±æœ‰åŠ©äºŽå¯¹çŽ¯å¢ƒé…ç½®è¿›è¡Œç‰ˆæœ¬ç®¡ç†ï¼Œå¹¶ä¸”å¯ä»¥é€šè¿‡gitå®¢æˆ·ç«¯å·¥å…·æ¥æ–¹ä¾¿çš„ç®¡ç†å’Œè®¿é—®é…ç½®å†…å®¹ã€‚
 
-ÓÉÓÚSpringCloud ConfigÄ¬ÈÏÊ¹ÓÃGitÀ´´æ´¢ÅäÖÃÎÄ¼þ(Ò²ÓÐÆäËü·½Ê½,±ÈÈçÖ§³ÖSVNºÍ±¾µØÎÄ¼þ)£¬
+ç”±äºŽSpringCloud Configé»˜è®¤ä½¿ç”¨Gitæ¥å­˜å‚¨é…ç½®æ–‡ä»¶(ä¹Ÿæœ‰å…¶å®ƒæ–¹å¼,æ¯”å¦‚æ”¯æŒSVNå’Œæœ¬åœ°æ–‡ä»¶)ï¼Œ
 
-µ«×îÍÆ¼öµÄ»¹ÊÇGit£¬¶øÇÒÊ¹ÓÃµÄÊÇhttp/https·ÃÎÊµÄÐÎÊ½
+ä½†æœ€æŽ¨èçš„è¿˜æ˜¯Gitï¼Œè€Œä¸”ä½¿ç”¨çš„æ˜¯http/httpsè®¿é—®çš„å½¢å¼
 
-##### 6.3Ê¹ÓÃ
+##### 6.3ä½¿ç”¨
 
-###### -·þÎñ¶Ë
+###### -æœåŠ¡ç«¯
 
 - pom
 
@@ -1378,22 +1380,22 @@ SpringCloud Config·ÖÎª·þÎñ¶ËºÍ¿Í»§¶ËÁ½²¿·Ö¡£
   ```yaml
   spring:
     #profiles:
-      #active: native #¿ªÆô±¾µØÅäÖÃÎÄ¼þ
+      #active: native #å¼€å¯æœ¬åœ°é…ç½®æ–‡ä»¶
     application:
       name: demo1config
     cloud:
       config:
-        label: master # ÅäÖÃ²Ö¿âµÄ·ÖÖ§
+        label: master # é…ç½®ä»“åº“çš„åˆ†æ”¯
         server:
           git:
-            # ÅäÖÃgit²Ö¿âµØÖ·
+            # é…ç½®gitä»“åº“åœ°å€
             #uri: https://github.com/athink8/SpringCloud-Config.git
             uri: https://e.coding.net/athink8/SpringCloud-Config-coding.git
-            # ÅäÖÃ²Ö¿âÂ·ÏÂµÄÏà¶ÔÂ·¾¶.¿ÉÒÔ,ÅäÖÃ¶à¸ö
+            # é…ç½®ä»“åº“è·¯ä¸‹çš„ç›¸å¯¹è·¯å¾„.å¯ä»¥,é…ç½®å¤šä¸ª
             #search-paths: /
-            username: athink8@163.com # ·ÃÎÊgit²Ö¿âµÄÓÃ»§Ãû
-            password:  # ·ÃÎÊgit²Ö¿âµÄÃÜÂë
-          #native:  #±¾µØÅäÖÃÎÄ¼þ
+            username: athink8@163.com # è®¿é—®gitä»“åº“çš„ç”¨æˆ·å
+            password:  # è®¿é—®gitä»“åº“çš„å¯†ç 
+          #native:  #æœ¬åœ°é…ç½®æ–‡ä»¶
             #search-locations: file:///E:\yuyan\java\spring\other\SpringCloud\SpringCloud-Config\SpringCloud-Config
   
   server:
@@ -1405,10 +1407,10 @@ SpringCloud Config·ÖÎª·þÎñ¶ËºÍ¿Í»§¶ËÁ½²¿·Ö¡£
         defaultZone: http://eureka1.cn:7001/eureka/,http://eureka2.cn:7002/eureka/,http://eureka3.cn:7003/eureka/
     instance:
       instance-id: config9200
-      prefer-ip-address: true #ÏÔÊ¾ip
+      prefer-ip-address: true #æ˜¾ç¤ºip
   ```
 
-- Ö÷Àà
+- ä¸»ç±»
 
   ```java
   @EnableConfigServer
@@ -1416,13 +1418,13 @@ SpringCloud Config·ÖÎª·þÎñ¶ËºÍ¿Í»§¶ËÁ½²¿·Ö¡£
   @EnableDiscoveryClient
   ```
 
-- ²âÊÔ
+- æµ‹è¯•
 
   ```yaml
-  http://localhost:9200/application-dev.yml #Ç°ÌáÊ±ÄãµÄgit²Ö¿âÓÐÕâ¸öÎÄ¼þprofile
+  http://localhost:9200/application-dev.yml #å‰ææ—¶ä½ çš„gitä»“åº“æœ‰è¿™ä¸ªæ–‡ä»¶profile
   ```
 
-  > ·ÃÎÊ²âÊÔ£º
+  > è®¿é—®æµ‹è¯•ï¼š
   >
   > / {application} / {profile} [/ {label}]
   > /{application}-{profile}.yml
@@ -1430,7 +1432,7 @@ SpringCloud Config·ÖÎª·þÎñ¶ËºÍ¿Í»§¶ËÁ½²¿·Ö¡£
   > /{application}-{profile}.properties
   > /{label}/{application}-{profile}.properties
 
-###### -¿Í»§¶Ë
+###### -å®¢æˆ·ç«¯
 
 - pom
 
@@ -1440,21 +1442,21 @@ SpringCloud Config·ÖÎª·þÎñ¶ËºÍ¿Í»§¶ËÁ½²¿·Ö¡£
               <artifactId>spring-boot-starter-actuator</artifactId>
           </dependency>
   
-          <dependency><!--config¿Í»§¶Ë-->
+          <dependency><!--configå®¢æˆ·ç«¯-->
               <groupId>org.springframework.cloud</groupId>
               <artifactId>spring-cloud-starter-config</artifactId>
           </dependency>
-          <dependency><!--eureka¿Í»§¶Ë-->
+          <dependency><!--eurekaå®¢æˆ·ç«¯-->
               <groupId>org.springframework.cloud</groupId>
               <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
           </dependency>
-          <dependency><!--hystrixÈÛ¶ÏÆ÷-->
+          <dependency><!--hystrixç†”æ–­å™¨-->
               <groupId>org.springframework.cloud</groupId>
               <artifactId>spring-cloud-starter-netflix-hystrix</artifactId>
           </dependency>
   ```
 
-- gitÉÏ´«ÎÄ¼þdemo1_provider_1.yml
+- gitä¸Šä¼ æ–‡ä»¶demo1_provider_1.yml
 
   ```yaml
   spring:
@@ -1469,11 +1471,11 @@ SpringCloud Config·ÖÎª·þÎñ¶ËºÍ¿Í»§¶ËÁ½²¿·Ö¡£
     profiles: dev
     application:
       name: demo1provider1
-    #Êý¾ÝÔ´»ù±¾ÅäÖÃ
+    #æ•°æ®æºåŸºæœ¬é…ç½®
     datasource:
       driver-class-name: com.mysql.jdbc.Driver
       type: com.alibaba.druid.pool.DruidDataSource
-      #Êý¾ÝÔ´ÆäËûÅäÖÃ
+      #æ•°æ®æºå…¶ä»–é…ç½®
       initialSize: 5
       minIdle: 5
       maxActive: 20
@@ -1485,18 +1487,18 @@ SpringCloud Config·ÖÎª·þÎñ¶ËºÍ¿Í»§¶ËÁ½²¿·Ö¡£
       testOnBorrow: false
       testOnReturn: false
       poolPreparedStatements: true
-      #ÅäÖÃ¼à¿ØÍ³¼ÆÀ¹½ØµÄfilters£¬È¥µôºó¼à¿Ø½çÃæsqlÎÞ·¨Í³¼Æ£¬'wall'ÓÃÓÚ·À»ðÇ½
+      #é…ç½®ç›‘æŽ§ç»Ÿè®¡æ‹¦æˆªçš„filtersï¼ŒåŽ»æŽ‰åŽç›‘æŽ§ç•Œé¢sqlæ— æ³•ç»Ÿè®¡ï¼Œ'wall'ç”¨äºŽé˜²ç«å¢™
       filters: stat,wall
       maxPoolPreparedStatementPerConnectionSize: 20
       useGlobalDataSourceStat: true
       connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=500
   
   mybatis:
-    type-aliases-package: demo1_api.entities    # ËùÓÐEntity±ðÃûÀàËùÔÚ°ü
-    config-location: classpath:mybatis/mybatis-config.xml #Ö¸¶¨È«¾ÖÅäÖÃÎÄ¼þµÄÎ»ÖÃ
-    mapper-locations: classpath:mybatis/mapper/*.xml  #Ö¸¶¨sqlÓ³ÉäÎÄ¼þµÄÎ»ÖÃ
+    type-aliases-package: demo1_api.entities    # æ‰€æœ‰Entityåˆ«åç±»æ‰€åœ¨åŒ…
+    config-location: classpath:mybatis/mybatis-config.xml #æŒ‡å®šå…¨å±€é…ç½®æ–‡ä»¶çš„ä½ç½®
+    mapper-locations: classpath:mybatis/mapper/*.xml  #æŒ‡å®šsqlæ˜ å°„æ–‡ä»¶çš„ä½ç½®
   
-  #ÊµÏÖ·þÎñ¼¯ÈºÄÜ¹»Á¬½Ó²»Í¬µÄÊý¾Ý¿â
+  #å®žçŽ°æœåŠ¡é›†ç¾¤èƒ½å¤Ÿè¿žæŽ¥ä¸åŒçš„æ•°æ®åº“
   ---
   spring:
     profiles: demo1provider1_mysql_1
@@ -1520,11 +1522,11 @@ SpringCloud Config·ÖÎª·þÎñ¶ËºÍ¿Í»§¶ËÁ½²¿·Ö¡£
       url: jdbc:mysql:///test2?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
   ```
 
-- bootstrap.ymlÅäÖÃ
+- bootstrap.ymlé…ç½®
 
-  > ×¢Òâ£¬ÐèÒª°Ñconfigµ÷ÓÃµÄÐÅÏ¢±£´æµ½bootstrap.yml,¶ø²»ÊÇapplication.yml
+  > æ³¨æ„ï¼Œéœ€è¦æŠŠconfigè°ƒç”¨çš„ä¿¡æ¯ä¿å­˜åˆ°bootstrap.yml,è€Œä¸æ˜¯application.yml
   >
-  > bootstrap.yml ÓÅÏÈ¼¶> application.yml£¬»áÆôÓÃbootstrap.yml
+  > bootstrap.yml ä¼˜å…ˆçº§> application.ymlï¼Œä¼šå¯ç”¨bootstrap.yml
 
   ```yaml
   server:
@@ -1534,23 +1536,23 @@ SpringCloud Config·ÖÎª·þÎñ¶ËºÍ¿Í»§¶ËÁ½²¿·Ö¡£
       name: demo1provider1
     cloud:
       config:
-        label: master # ÅäÖÃ²Ö¿âµÄ·ÖÖ§
-        #uri: http://localhost:9200 #Ö±½ÓÓòÃû·ÃÎÊconfigÖÐÐÄ
-        name: demo1_provider_1 #ÐèÒª´ÓgithubÉÏ¶ÁÈ¡µÄ×ÊÔ´Ãû³Æ£¬×¢ÒâÃ»ÓÐymlºó×ºÃû
-        profile: dev,demo1provider1_mysql_1 #ÅäÖÃÀàÐÍ
+        label: master # é…ç½®ä»“åº“çš„åˆ†æ”¯
+        #uri: http://localhost:9200 #ç›´æŽ¥åŸŸåè®¿é—®configä¸­å¿ƒ
+        name: demo1_provider_1 #éœ€è¦ä»Žgithubä¸Šè¯»å–çš„èµ„æºåç§°ï¼Œæ³¨æ„æ²¡æœ‰ymlåŽç¼€å
+        profile: dev,demo1provider1_mysql_1 #é…ç½®ç±»åž‹
         discovery:
-          enabled: true #¿ªÆô·þÎñ·¢ÏÖ
-          service-id: demo1config #´ÓeurekaÖÐÑ°ÕÒ³öconfigÖÐÐÄ·þÎñ
+          enabled: true #å¼€å¯æœåŠ¡å‘çŽ°
+          service-id: demo1config #ä»Žeurekaä¸­å¯»æ‰¾å‡ºconfigä¸­å¿ƒæœåŠ¡
         #fail-fast: true
   
-  #eurekaÅäÖÃÓ¦·ÅÖÃÔÚbootstrap.ymlÀï
+  #eurekaé…ç½®åº”æ”¾ç½®åœ¨bootstrap.ymlé‡Œ
   eureka:
     client:
       service-url:
         defaultZone: http://eureka1.cn:7001/eureka/,http://eureka2.cn:7002/eureka/,http://eureka3.cn:7003/eureka/
     instance:
-      instance-id: ·þÎñ1-8081
-      prefer-ip-address: true #ÏÔÊ¾ip
+      instance-id: æœåŠ¡1-8081
+      prefer-ip-address: true #æ˜¾ç¤ºip
   info:
     app.name: demo1provider1
     company.name: Athink
@@ -1558,7 +1560,7 @@ SpringCloud Config·ÖÎª·þÎñ¶ËºÍ¿Í»§¶ËÁ½²¿·Ö¡£
     build.version: ${project.version}
   ```
 
-- Ö÷Àà
+- ä¸»ç±»
 
   ```java
   @EnableEurekaClient
@@ -1566,35 +1568,35 @@ SpringCloud Config·ÖÎª·þÎñ¶ËºÍ¿Í»§¶ËÁ½²¿·Ö¡£
   @EnableCircuitBreaker
   ```
 
-#### 7.SpringCloud SleuthºÍZipkinÁ´Â·¸ú×Ù
+#### 7.SpringCloud Sleuthå’ŒZipkiné“¾è·¯è·Ÿè¸ª
 
-##### 7.1¸÷ÊÇÊ²Ã´£¿
+##### 7.1å„æ˜¯ä»€ä¹ˆï¼Ÿ
 
 - Spring Cloud Sleuth
 
-  Spring Cloud SleuthÎª·þÎñÖ®¼äµ÷ÓÃÌá¹©Á´Â·×·×Ù¡£Í¨¹ýSleuth¿ÉÒÔºÜÇå³þµÄÁË½âµ½Ò»¸ö·þÎñÇëÇó¾­¹ýÁËÄÄÐ©·þÎñ£¬Ã¿¸ö·þÎñ´¦Àí»¨·ÑÁË¶à³¤¡£´Ó¶øÈÃÎÒÃÇ¿ÉÒÔºÜ·½±ãµÄÀíÇå¸÷Î¢·þÎñ¼äµÄµ÷ÓÃ¹ØÏµ¡£´ËÍâSleuth¿ÉÒÔ°ïÖúÎÒÃÇ£º
+  Spring Cloud Sleuthä¸ºæœåŠ¡ä¹‹é—´è°ƒç”¨æä¾›é“¾è·¯è¿½è¸ªã€‚é€šè¿‡Sleuthå¯ä»¥å¾ˆæ¸…æ¥šçš„äº†è§£åˆ°ä¸€ä¸ªæœåŠ¡è¯·æ±‚ç»è¿‡äº†å“ªäº›æœåŠ¡ï¼Œæ¯ä¸ªæœåŠ¡å¤„ç†èŠ±è´¹äº†å¤šé•¿ã€‚ä»Žè€Œè®©æˆ‘ä»¬å¯ä»¥å¾ˆæ–¹ä¾¿çš„ç†æ¸…å„å¾®æœåŠ¡é—´çš„è°ƒç”¨å…³ç³»ã€‚æ­¤å¤–Sleuthå¯ä»¥å¸®åŠ©æˆ‘ä»¬ï¼š
 
-  - ºÄÊ±·ÖÎö: Í¨¹ýSleuth¿ÉÒÔºÜ·½±ãµÄÁË½âµ½Ã¿¸ö²ÉÑùÇëÇóµÄºÄÊ±£¬´Ó¶ø·ÖÎö³öÄÄÐ©·þÎñµ÷ÓÃ±È½ÏºÄÊ±;
-  - ¿ÉÊÓ»¯´íÎó: ¶ÔÓÚ³ÌÐòÎ´²¶×½µÄÒì³££¬¿ÉÒÔÍ¨¹ý¼¯³ÉZipkin·þÎñ½çÃæÉÏ¿´µ½;
-  - Á´Â·ÓÅ»¯: ¶ÔÓÚµ÷ÓÃ±È½ÏÆµ·±µÄ·þÎñ£¬¿ÉÒÔÕë¶ÔÕâÐ©·þÎñÊµÊ©Ò»Ð©ÓÅ»¯´ëÊ©¡£
+  - è€—æ—¶åˆ†æž: é€šè¿‡Sleuthå¯ä»¥å¾ˆæ–¹ä¾¿çš„äº†è§£åˆ°æ¯ä¸ªé‡‡æ ·è¯·æ±‚çš„è€—æ—¶ï¼Œä»Žè€Œåˆ†æžå‡ºå“ªäº›æœåŠ¡è°ƒç”¨æ¯”è¾ƒè€—æ—¶;
+  - å¯è§†åŒ–é”™è¯¯: å¯¹äºŽç¨‹åºæœªæ•æ‰çš„å¼‚å¸¸ï¼Œå¯ä»¥é€šè¿‡é›†æˆZipkinæœåŠ¡ç•Œé¢ä¸Šçœ‹åˆ°;
+  - é“¾è·¯ä¼˜åŒ–: å¯¹äºŽè°ƒç”¨æ¯”è¾ƒé¢‘ç¹çš„æœåŠ¡ï¼Œå¯ä»¥é’ˆå¯¹è¿™äº›æœåŠ¡å®žæ–½ä¸€äº›ä¼˜åŒ–æŽªæ–½ã€‚
 
-  spring cloud sleuth¿ÉÒÔ½áºÏzipkin£¬½«ÐÅÏ¢·¢ËÍµ½zipkin£¬ÀûÓÃzipkinµÄ´æ´¢À´´æ´¢ÐÅÏ¢£¬ÀûÓÃzipkin uiÀ´Õ¹Ê¾Êý¾Ý¡£
+  spring cloud sleuthå¯ä»¥ç»“åˆzipkinï¼Œå°†ä¿¡æ¯å‘é€åˆ°zipkinï¼Œåˆ©ç”¨zipkinçš„å­˜å‚¨æ¥å­˜å‚¨ä¿¡æ¯ï¼Œåˆ©ç”¨zipkin uiæ¥å±•ç¤ºæ•°æ®ã€‚
 
-![Spring Cloud Sleuth¸ÅÄîÍ¼](https://cdn.jsdelivr.net/gh/athink8/cdn@master/imgs/arctle/spring%20cloud%20sleuth.png)
+![Spring Cloud Sleuthæ¦‚å¿µå›¾](https://cdn.jsdelivr.net/gh/athink8/cdn@master/imgs/arctle/spring%20cloud%20sleuth.png)
 
 - Zipkin 
 
-  ZipkinÊÇÒ»¸ö¿ª·ÅÔ´´úÂë·Ö²¼Ê½µÄ¸ú×ÙÏµÍ³£¬ÓÉTwitter¹«Ë¾¿ªÔ´£¬ËüÖÂÁ¦ÓÚÊÕ¼¯·þÎñµÄ¶¨Ê±Êý¾Ý£¬ÒÔ½â¾öÎ¢·þÎñ¼Ü¹¹ÖÐµÄÑÓ³ÙÎÊÌâ£¬°üÀ¨Êý¾ÝµÄÊÕ¼¯¡¢´æ´¢¡¢²éÕÒºÍÕ¹ÏÖ¡£
+  Zipkinæ˜¯ä¸€ä¸ªå¼€æ”¾æºä»£ç åˆ†å¸ƒå¼çš„è·Ÿè¸ªç³»ç»Ÿï¼Œç”±Twitterå…¬å¸å¼€æºï¼Œå®ƒè‡´åŠ›äºŽæ”¶é›†æœåŠ¡çš„å®šæ—¶æ•°æ®ï¼Œä»¥è§£å†³å¾®æœåŠ¡æž¶æž„ä¸­çš„å»¶è¿Ÿé—®é¢˜ï¼ŒåŒ…æ‹¬æ•°æ®çš„æ”¶é›†ã€å­˜å‚¨ã€æŸ¥æ‰¾å’Œå±•çŽ°ã€‚
 
-  Ã¿¸ö·þÎñÏòzipkin±¨¸æ¼ÆÊ±Êý¾Ý£¬zipkin»á¸ù¾Ýµ÷ÓÃ¹ØÏµÍ¨¹ýZipkin UIÉú³ÉÒÀÀµ¹ØÏµÍ¼£¬ÏÔÊ¾ÁË¶àÉÙ¸ú×ÙÇëÇóÍ¨¹ýÃ¿¸ö·þÎñ£¬¸ÃÏµÍ³ÈÃ¿ª·¢Õß¿ÉÍ¨¹ýÒ»¸ö Web Ç°¶ËÇáËÉµÄÊÕ¼¯ºÍ·ÖÎöÊý¾Ý£¬ÀýÈçÓÃ»§Ã¿´ÎÇëÇó·þÎñµÄ´¦ÀíÊ±¼äµÈ£¬¿É·½±ãµÄ¼à²âÏµÍ³ÖÐ´æÔÚµÄÆ¿¾±¡£
+  æ¯ä¸ªæœåŠ¡å‘zipkinæŠ¥å‘Šè®¡æ—¶æ•°æ®ï¼Œzipkinä¼šæ ¹æ®è°ƒç”¨å…³ç³»é€šè¿‡Zipkin UIç”Ÿæˆä¾èµ–å…³ç³»å›¾ï¼Œæ˜¾ç¤ºäº†å¤šå°‘è·Ÿè¸ªè¯·æ±‚é€šè¿‡æ¯ä¸ªæœåŠ¡ï¼Œè¯¥ç³»ç»Ÿè®©å¼€å‘è€…å¯é€šè¿‡ä¸€ä¸ª Web å‰ç«¯è½»æ¾çš„æ”¶é›†å’Œåˆ†æžæ•°æ®ï¼Œä¾‹å¦‚ç”¨æˆ·æ¯æ¬¡è¯·æ±‚æœåŠ¡çš„å¤„ç†æ—¶é—´ç­‰ï¼Œå¯æ–¹ä¾¿çš„ç›‘æµ‹ç³»ç»Ÿä¸­å­˜åœ¨çš„ç“¶é¢ˆã€‚
 
-  ZipkinÌá¹©ÁË¿É²å°ÎÊý¾Ý´æ´¢·½Ê½£ºIn-Memory¡¢MySql¡¢CassandraÒÔ¼°Elasticsearch¡£½ÓÏÂÀ´µÄ²âÊÔÎª·½±ãÖ±½Ó²ÉÓÃIn-Memory·½Ê½½øÐÐ´æ´¢£¬Éú²úÍÆ¼öElasticsearch¡£
+  Zipkinæä¾›äº†å¯æ’æ‹”æ•°æ®å­˜å‚¨æ–¹å¼ï¼šIn-Memoryã€MySqlã€Cassandraä»¥åŠElasticsearchã€‚æŽ¥ä¸‹æ¥çš„æµ‹è¯•ä¸ºæ–¹ä¾¿ç›´æŽ¥é‡‡ç”¨In-Memoryæ–¹å¼è¿›è¡Œå­˜å‚¨ï¼Œç”Ÿäº§æŽ¨èElasticsearchã€‚
 
-##### 7.2Ê¹ÓÃ
+##### 7.2ä½¿ç”¨
 
-> ºÃÏñÒÑÆôÓÃ£¬ÄÇÒ²ºÃÏñÃ»É¶Ñ§Ï°µÄ±ØÒªÁË..
+> å¥½åƒå·²å¯ç”¨ï¼Œé‚£ä¹Ÿå¥½åƒæ²¡å•¥å­¦ä¹ çš„å¿…è¦äº†..
 
 ---
 
-Î´Íê´ýÐø..
+æœªå®Œå¾…ç»­..
 
